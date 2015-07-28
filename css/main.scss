@@ -1,0 +1,157 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+@import 'bourbon';
+@import "reset";
+
+
+// Spacing
+$modular-scale-ratio: $perfect-fourth;
+$spacing-unit: 1rem;
+$wrapper-width: rem(1000);
+
+%clearfix {
+  @include clearfix;
+}
+
+// Fonts
+$base-font-family: "nimbus-sans",sans-serif;
+$base-font-style: normal;
+$base-font-weight: 400;
+
+$em-base: 18px;
+$base-font-size:   $em-base;
+
+$header-font-family: "nimbus-sans-condensed", sans-serif;
+$header-font-style: normal;
+$header-font-weight: 700;
+
+%base-font {
+    font-family: $base-font-family;
+    font-style: $base-font-style;
+    font-weight: $base-font-weight; 
+}
+
+%header-font {
+    font-family: $header-font-family;
+    font-style: $header-font-style;
+    font-weight: $header-font-weight;
+    text-transform: uppercase;
+}
+
+
+
+// Colors
+
+$red: #c52033;
+$gray: #666;
+$silver: #e5e5e5;
+
+$primary-color: $red;
+$primary-color-darker: darken($red, 10%);
+$secondary-color: $gray;
+$tertiary-color: $silver;
+$shadow: rgba(black, 0.1);
+
+body {
+    background-color: $tertiary-color;
+    @extend %base-font;
+    font-size: $base-font-size;
+    line-height: $modular-scale-ratio;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+%header-style {
+    @extend %header-font;
+    line-height: 1;
+    padding-bottom: $spacing-unit/2;
+    margin-top: $spacing-unit;
+    margin-bottom: $spacing-unit/2;
+}
+
+.page-header {
+    @extend %header-style;
+    color: $primary-color;
+    font-size: modular-scale(3);
+    border-bottom: 4px solid $shadow;
+}
+
+.page-subheader {
+    @extend %header-style;
+    color: $secondary-color;
+    font-size: modular-scale(2);
+    border-bottom: 1px dashed $secondary-color;
+}
+
+.site-nav-primary {
+    @extend %header-font;
+}
+
+.site-header {
+    background-color: $primary-color;
+    color: white;
+}
+
+.site-title {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    text-indent: -1000px;
+    background: url('/images/Cahaba-Pressure-Logo-2-Color-Large-with-Treated-Forest-Products.png') center center no-repeat;
+    background-size: 100%;
+}
+
+a {
+    color: $primary-color;
+    text-decoration: none;
+    &:hover, &:focus {
+        color: $primary-color-darker;
+    }
+}
+
+strong, b {
+    font-weight: 700;
+}
+
+.site-nav-link {
+    display: inline-block;
+    padding: ($spacing-unit/2) $spacing-unit;
+    color: white;
+    text-decoration: none;
+    font-size: modular-scale(1);
+    text-transform: uppercase;
+    @include transition(background-color 200ms linear);
+    &:hover, &:focus {
+        color: white;
+        background-color: $shadow;
+    }
+}
+
+.site-nav-primary {
+    @extend %clearfix;
+    > li {
+        float: left;
+        display: inline-block;
+    }
+}
+
+.wrapper {
+    padding-left: $spacing-unit;
+    padding-right: $spacing-unit;
+    max-width: $wrapper-width;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page-content p {
+    font-size: modular-scale(0);
+}
+
+.page-content .page-header + p {
+    font-size: modular-scale(1);
+}
+
+
