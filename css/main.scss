@@ -5,178 +5,178 @@
 
 @import '../bourbon/_bourbon';
 
-// // Spacing
-// $modular-scale-ratio: $major-third;
-// $spacing-unit: 1rem;
-// $wrapper-width: rem(1000);
+// Spacing
+$modular-scale-ratio: $major-third;
+$spacing-unit: 1rem;
+$wrapper-width: rem(1000);
 
 
 
-// // Fonts
-// $base-font-family: "nimbus-sans",sans-serif;
-// $base-font-style: normal;
-// $base-font-weight: 400;
+// Fonts
+$base-font-family: "nimbus-sans",sans-serif;
+$base-font-style: normal;
+$base-font-weight: 400;
 
-// $em-base: 18px;
-// //$base-font-size:   $em-base;
+$em-base: 18px;
+//$base-font-size:   $em-base;
 
-// $header-font-family: "nimbus-sans-condensed", sans-serif;
-// $header-font-style: normal;
-// $header-font-weight: 700;
+$header-font-family: "nimbus-sans-condensed", sans-serif;
+$header-font-style: normal;
+$header-font-weight: 700;
 
-// @mixin font-and-line ($scale-number, $line-height: 1) {
-//     $modular-scale: modular-scale($scale-number);
-//     font-size: $modular-scale;
-//     line-height: $modular-scale * $line-height;
-// }
+@mixin font-and-line ($scale-number, $line-height: 1) {
+    $modular-scale: modular-scale($scale-number);
+    font-size: $modular-scale;
+    line-height: $modular-scale * $line-height;
+}
 
 
 
-// // Colors
+// Colors
 
-// $red: #c52033;
-// $gray: #666;
-// $silver: #e5e5e5;
+$red: #c52033;
+$gray: #666;
+$silver: #e5e5e5;
 
-// $primary-color: $red;
-// $primary-color-darker: darken($red, 10%);
-// $secondary-color: $gray;
-// $tertiary-color: $silver;
-// $shadow: rgba(black, 0.1);
+$primary-color: $red;
+$primary-color-darker: darken($red, 10%);
+$secondary-color: $gray;
+$tertiary-color: $silver;
+$shadow: rgba(black, 0.1);
 
-// @import "reset";
+@import "reset";
 
-// %base-font {
-//     font-family: $base-font-family;
-//     font-style: $base-font-style;
-//     font-weight: $base-font-weight; 
-// }
+%base-font {
+    font-family: $base-font-family;
+    font-style: $base-font-style;
+    font-weight: $base-font-weight; 
+}
 
-// %header-font {
-//     font-family: $header-font-family;
-//     font-style: $header-font-style;
-//     font-weight: $header-font-weight;
-//     text-transform: uppercase;
-// }
+%header-font {
+    font-family: $header-font-family;
+    font-style: $header-font-style;
+    font-weight: $header-font-weight;
+    text-transform: uppercase;
+}
 
-// %clearfix {
-//   @include clearfix;
-// }
+%clearfix {
+  @include clearfix;
+}
 
-// body {
-//     background-color: $tertiary-color;
-//     @extend %base-font;
-//     //font-size: $base-font-size;
-//     //line-height: $modular-scale-ratio;
-//     text-rendering: optimizeLegibility;
-//     -webkit-font-smoothing: antialiased;
-// }
+body {
+    background-color: $tertiary-color;
+    @extend %base-font;
+    //font-size: $base-font-size;
+    //line-height: $modular-scale-ratio;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
 
-// %header-style {
-//     @extend %header-font;
-//     padding-bottom: $spacing-unit/2;
-//     margin-top: $spacing-unit;
-//     margin-bottom: $spacing-unit/2;
-// }
+%header-style {
+    @extend %header-font;
+    padding-bottom: $spacing-unit/2;
+    margin-top: $spacing-unit;
+    margin-bottom: $spacing-unit/2;
+}
 
-// .page-header {
-//     @extend %header-style;
-//     color: $primary-color;
-//     @include font-and-line(3, 0.5);
-//     border-bottom: 4px solid $shadow;
-// }
+.page-header {
+    @extend %header-style;
+    color: $primary-color;
+    @include font-and-line(3, 0.5);
+    border-bottom: 4px solid $shadow;
+}
 
-// .page-subheader {
-//     @extend %header-style;
-//     color: $secondary-color;
-//     @include font-and-line(2, 0.5);
-//     border-bottom: 1px dashed $secondary-color;
-// }
+.page-subheader {
+    @extend %header-style;
+    color: $secondary-color;
+    @include font-and-line(2, 0.5);
+    border-bottom: 1px dashed $secondary-color;
+}
 
-// .site-nav-primary {
-//     @extend %header-font;
-// }
+.site-nav-primary {
+    @extend %header-font;
+}
 
-// .site-header {
-//     background-color: $primary-color;
-//     color: white;
-// }
+.site-header {
+    background-color: $primary-color;
+    color: white;
+}
 
-// .site-title {
-//     display: inline-block;
-//     width: 200px;
-//     height: 200px;
-//     text-indent: -1000px;
-//     background: url('/images/Cahaba-Pressure-Logo-2-Color-Large-with-Treated-Forest-Products.png') center center no-repeat;
-//     background-size: 100%;
-// }
+.site-title {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    text-indent: -1000px;
+    background: url('/images/Cahaba-Pressure-Logo-2-Color-Large-with-Treated-Forest-Products.png') center center no-repeat;
+    background-size: 100%;
+}
 
-// a {
-//     color: $primary-color;
-//     text-decoration: none;
-//     &:hover, &:focus {
-//         color: $primary-color-darker;
-//     }
-// }
+a {
+    color: $primary-color;
+    text-decoration: none;
+    &:hover, &:focus {
+        color: $primary-color-darker;
+    }
+}
 
-// strong, b {
-//     font-weight: 700;
-// }
+strong, b {
+    font-weight: 700;
+}
 
-// .site-nav-link {
-//     display: inline-block;
-//     padding: ($spacing-unit/2) $spacing-unit;
-//     color: white;
-//     text-decoration: none;
-//     font-size: modular-scale(1);
-//     text-transform: uppercase;
-//     @include transition(background-color 200ms linear);
-//     &:hover, &:focus {
-//         color: white;
-//         background-color: $shadow;
-//     }
-// }
+.site-nav-link {
+    display: inline-block;
+    padding: ($spacing-unit/2) $spacing-unit;
+    color: white;
+    text-decoration: none;
+    font-size: modular-scale(1);
+    text-transform: uppercase;
+    @include transition(background-color 200ms linear);
+    &:hover, &:focus {
+        color: white;
+        background-color: $shadow;
+    }
+}
 
-// .site-nav-primary {
-//     @extend %clearfix;
-//     > li {
-//         float: left;
-//         display: inline-block;
-//     }
-// }
+.site-nav-primary {
+    @extend %clearfix;
+    > li {
+        float: left;
+        display: inline-block;
+    }
+}
 
-// .wrapper {
-//     @extend %clearfix;
-//     padding-left: $spacing-unit;
-//     padding-right: $spacing-unit;
-//     max-width: $wrapper-width;
-//     margin-left: auto;
-//     margin-right: auto;
-// }
+.wrapper {
+    @extend %clearfix;
+    padding-left: $spacing-unit;
+    padding-right: $spacing-unit;
+    max-width: $wrapper-width;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-// .page-content p {
-//     font-size: modular-scale(0);
-//     line-height: modular-scale(1)*1.2; 
-// }
+.page-content p {
+    font-size: modular-scale(0);
+    line-height: modular-scale(1)*1.2; 
+}
 
-// .page-content .page-header + p {
-//     font-size: modular-scale(1);
-//     line-height: modular-scale(1)*1.2;
-// }
+.page-content .page-header + p {
+    font-size: modular-scale(1);
+    line-height: modular-scale(1)*1.2;
+}
 
-// .page {
-//     &.with-sidebar {
-//         > .page-content {
-//             padding-right: $spacing-unit;
-//         }
-//         $sidebar-width: 33%;
-//         float: left;
-//         width: (100% - $sidebar-width);
-//         & + .sidebar {
-//             float: right;
-//             width: $sidebar-width;
-//         }
-//     }
-// }
+.page {
+    &.with-sidebar {
+        > .page-content {
+            padding-right: $spacing-unit;
+        }
+        $sidebar-width: 33%;
+        float: left;
+        width: (100% - $sidebar-width);
+        & + .sidebar {
+            float: right;
+            width: $sidebar-width;
+        }
+    }
+}
 
 
