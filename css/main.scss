@@ -4,17 +4,13 @@
 @charset "utf-8";
 
 @import 'bourbon';
-@import "reset";
-
 
 // Spacing
-$modular-scale-ratio: $perfect-fourth;
+$modular-scale-ratio: $major-third;
 $spacing-unit: 1rem;
 $wrapper-width: rem(1000);
 
-%clearfix {
-  @include clearfix;
-}
+
 
 // Fonts
 $base-font-family: "nimbus-sans",sans-serif;
@@ -22,23 +18,16 @@ $base-font-style: normal;
 $base-font-weight: 400;
 
 $em-base: 18px;
-$base-font-size:   $em-base;
+//$base-font-size:   $em-base;
 
 $header-font-family: "nimbus-sans-condensed", sans-serif;
 $header-font-style: normal;
 $header-font-weight: 700;
 
-%base-font {
-    font-family: $base-font-family;
-    font-style: $base-font-style;
-    font-weight: $base-font-weight; 
-}
-
-%header-font {
-    font-family: $header-font-family;
-    font-style: $header-font-style;
-    font-weight: $header-font-weight;
-    text-transform: uppercase;
+@mixin font-and-line ($scale-number, $line-height: 1) {
+    $modular-scale: modular-scale($scale-number);
+    font-size: $modular-scale;
+    line-height: $modular-scale * $line-height;
 }
 
 
@@ -55,18 +44,36 @@ $secondary-color: $gray;
 $tertiary-color: $silver;
 $shadow: rgba(black, 0.1);
 
+@import "reset";
+
+%base-font {
+    font-family: $base-font-family;
+    font-style: $base-font-style;
+    font-weight: $base-font-weight; 
+}
+
+%header-font {
+    font-family: $header-font-family;
+    font-style: $header-font-style;
+    font-weight: $header-font-weight;
+    text-transform: uppercase;
+}
+
+%clearfix {
+  @include clearfix;
+}
+
 body {
     background-color: $tertiary-color;
     @extend %base-font;
-    font-size: $base-font-size;
-    line-height: $modular-scale-ratio;
+    //font-size: $base-font-size;
+    //line-height: $modular-scale-ratio;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
 }
 
 %header-style {
     @extend %header-font;
-    line-height: 1;
     padding-bottom: $spacing-unit/2;
     margin-top: $spacing-unit;
     margin-bottom: $spacing-unit/2;
@@ -75,14 +82,14 @@ body {
 .page-header {
     @extend %header-style;
     color: $primary-color;
-    font-size: modular-scale(3);
+    @include font-and-line(3, 0.5);
     border-bottom: 4px solid $shadow;
 }
 
 .page-subheader {
     @extend %header-style;
     color: $secondary-color;
-    font-size: modular-scale(2);
+    @include font-and-line(2, 0.5);
     border-bottom: 1px dashed $secondary-color;
 }
 
@@ -139,6 +146,7 @@ strong, b {
 }
 
 .wrapper {
+    @extend %clearfix;
     padding-left: $spacing-unit;
     padding-right: $spacing-unit;
     max-width: $wrapper-width;
@@ -148,10 +156,27 @@ strong, b {
 
 .page-content p {
     font-size: modular-scale(0);
+    line-height: modular-scale(1)*1.2; 
 }
 
 .page-content .page-header + p {
     font-size: modular-scale(1);
+    line-height: modular-scale(1)*1.2;
+}
+
+.page {
+    &.with-sidebar {
+        > .page-content {
+            padding-right: $spacing-unit;
+        }
+        $sidebar-width: 33%;
+        float: left;
+        width: (100% - $sidebar-width);
+        & + .sidebar {
+            float: right;
+            width: $sidebar-width;
+        }
+    }
 }
 
 
