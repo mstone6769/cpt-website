@@ -3,180 +3,180 @@
 ---
 @charset "utf-8";
 
-@import 'bourbon';
+// @import 'bourbon';
 
-// Spacing
-$modular-scale-ratio: $major-third;
-$spacing-unit: 1rem;
-$wrapper-width: rem(1000);
-
-
-
-// Fonts
-$base-font-family: "nimbus-sans",sans-serif;
-$base-font-style: normal;
-$base-font-weight: 400;
-
-$em-base: 18px;
-//$base-font-size:   $em-base;
-
-$header-font-family: "nimbus-sans-condensed", sans-serif;
-$header-font-style: normal;
-$header-font-weight: 700;
-
-@mixin font-and-line ($scale-number, $line-height: 1) {
-    $modular-scale: modular-scale($scale-number);
-    font-size: $modular-scale;
-    line-height: $modular-scale * $line-height;
-}
+// // Spacing
+// $modular-scale-ratio: $major-third;
+// $spacing-unit: 1rem;
+// $wrapper-width: rem(1000);
 
 
 
-// Colors
+// // Fonts
+// $base-font-family: "nimbus-sans",sans-serif;
+// $base-font-style: normal;
+// $base-font-weight: 400;
 
-$red: #c52033;
-$gray: #666;
-$silver: #e5e5e5;
+// $em-base: 18px;
+// //$base-font-size:   $em-base;
 
-$primary-color: $red;
-$primary-color-darker: darken($red, 10%);
-$secondary-color: $gray;
-$tertiary-color: $silver;
-$shadow: rgba(black, 0.1);
+// $header-font-family: "nimbus-sans-condensed", sans-serif;
+// $header-font-style: normal;
+// $header-font-weight: 700;
 
-@import "reset";
+// @mixin font-and-line ($scale-number, $line-height: 1) {
+//     $modular-scale: modular-scale($scale-number);
+//     font-size: $modular-scale;
+//     line-height: $modular-scale * $line-height;
+// }
 
-%base-font {
-    font-family: $base-font-family;
-    font-style: $base-font-style;
-    font-weight: $base-font-weight; 
-}
 
-%header-font {
-    font-family: $header-font-family;
-    font-style: $header-font-style;
-    font-weight: $header-font-weight;
-    text-transform: uppercase;
-}
 
-%clearfix {
-  @include clearfix;
-}
+// // Colors
 
-body {
-    background-color: $tertiary-color;
-    @extend %base-font;
-    //font-size: $base-font-size;
-    //line-height: $modular-scale-ratio;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-}
+// $red: #c52033;
+// $gray: #666;
+// $silver: #e5e5e5;
 
-%header-style {
-    @extend %header-font;
-    padding-bottom: $spacing-unit/2;
-    margin-top: $spacing-unit;
-    margin-bottom: $spacing-unit/2;
-}
+// $primary-color: $red;
+// $primary-color-darker: darken($red, 10%);
+// $secondary-color: $gray;
+// $tertiary-color: $silver;
+// $shadow: rgba(black, 0.1);
 
-.page-header {
-    @extend %header-style;
-    color: $primary-color;
-    @include font-and-line(3, 0.5);
-    border-bottom: 4px solid $shadow;
-}
+// @import "reset";
 
-.page-subheader {
-    @extend %header-style;
-    color: $secondary-color;
-    @include font-and-line(2, 0.5);
-    border-bottom: 1px dashed $secondary-color;
-}
+// %base-font {
+//     font-family: $base-font-family;
+//     font-style: $base-font-style;
+//     font-weight: $base-font-weight; 
+// }
 
-.site-nav-primary {
-    @extend %header-font;
-}
+// %header-font {
+//     font-family: $header-font-family;
+//     font-style: $header-font-style;
+//     font-weight: $header-font-weight;
+//     text-transform: uppercase;
+// }
 
-.site-header {
-    background-color: $primary-color;
-    color: white;
-}
+// %clearfix {
+//   @include clearfix;
+// }
 
-.site-title {
-    display: inline-block;
-    width: 200px;
-    height: 200px;
-    text-indent: -1000px;
-    background: url('/images/Cahaba-Pressure-Logo-2-Color-Large-with-Treated-Forest-Products.png') center center no-repeat;
-    background-size: 100%;
-}
+// body {
+//     background-color: $tertiary-color;
+//     @extend %base-font;
+//     //font-size: $base-font-size;
+//     //line-height: $modular-scale-ratio;
+//     text-rendering: optimizeLegibility;
+//     -webkit-font-smoothing: antialiased;
+// }
 
-a {
-    color: $primary-color;
-    text-decoration: none;
-    &:hover, &:focus {
-        color: $primary-color-darker;
-    }
-}
+// %header-style {
+//     @extend %header-font;
+//     padding-bottom: $spacing-unit/2;
+//     margin-top: $spacing-unit;
+//     margin-bottom: $spacing-unit/2;
+// }
 
-strong, b {
-    font-weight: 700;
-}
+// .page-header {
+//     @extend %header-style;
+//     color: $primary-color;
+//     @include font-and-line(3, 0.5);
+//     border-bottom: 4px solid $shadow;
+// }
 
-.site-nav-link {
-    display: inline-block;
-    padding: ($spacing-unit/2) $spacing-unit;
-    color: white;
-    text-decoration: none;
-    font-size: modular-scale(1);
-    text-transform: uppercase;
-    @include transition(background-color 200ms linear);
-    &:hover, &:focus {
-        color: white;
-        background-color: $shadow;
-    }
-}
+// .page-subheader {
+//     @extend %header-style;
+//     color: $secondary-color;
+//     @include font-and-line(2, 0.5);
+//     border-bottom: 1px dashed $secondary-color;
+// }
 
-.site-nav-primary {
-    @extend %clearfix;
-    > li {
-        float: left;
-        display: inline-block;
-    }
-}
+// .site-nav-primary {
+//     @extend %header-font;
+// }
 
-.wrapper {
-    @extend %clearfix;
-    padding-left: $spacing-unit;
-    padding-right: $spacing-unit;
-    max-width: $wrapper-width;
-    margin-left: auto;
-    margin-right: auto;
-}
+// .site-header {
+//     background-color: $primary-color;
+//     color: white;
+// }
 
-.page-content p {
-    font-size: modular-scale(0);
-    line-height: modular-scale(1)*1.2; 
-}
+// .site-title {
+//     display: inline-block;
+//     width: 200px;
+//     height: 200px;
+//     text-indent: -1000px;
+//     background: url('/images/Cahaba-Pressure-Logo-2-Color-Large-with-Treated-Forest-Products.png') center center no-repeat;
+//     background-size: 100%;
+// }
 
-.page-content .page-header + p {
-    font-size: modular-scale(1);
-    line-height: modular-scale(1)*1.2;
-}
+// a {
+//     color: $primary-color;
+//     text-decoration: none;
+//     &:hover, &:focus {
+//         color: $primary-color-darker;
+//     }
+// }
 
-.page {
-    &.with-sidebar {
-        > .page-content {
-            padding-right: $spacing-unit;
-        }
-        $sidebar-width: 33%;
-        float: left;
-        width: (100% - $sidebar-width);
-        & + .sidebar {
-            float: right;
-            width: $sidebar-width;
-        }
-    }
-}
+// strong, b {
+//     font-weight: 700;
+// }
+
+// .site-nav-link {
+//     display: inline-block;
+//     padding: ($spacing-unit/2) $spacing-unit;
+//     color: white;
+//     text-decoration: none;
+//     font-size: modular-scale(1);
+//     text-transform: uppercase;
+//     @include transition(background-color 200ms linear);
+//     &:hover, &:focus {
+//         color: white;
+//         background-color: $shadow;
+//     }
+// }
+
+// .site-nav-primary {
+//     @extend %clearfix;
+//     > li {
+//         float: left;
+//         display: inline-block;
+//     }
+// }
+
+// .wrapper {
+//     @extend %clearfix;
+//     padding-left: $spacing-unit;
+//     padding-right: $spacing-unit;
+//     max-width: $wrapper-width;
+//     margin-left: auto;
+//     margin-right: auto;
+// }
+
+// .page-content p {
+//     font-size: modular-scale(0);
+//     line-height: modular-scale(1)*1.2; 
+// }
+
+// .page-content .page-header + p {
+//     font-size: modular-scale(1);
+//     line-height: modular-scale(1)*1.2;
+// }
+
+// .page {
+//     &.with-sidebar {
+//         > .page-content {
+//             padding-right: $spacing-unit;
+//         }
+//         $sidebar-width: 33%;
+//         float: left;
+//         width: (100% - $sidebar-width);
+//         & + .sidebar {
+//             float: right;
+//             width: $sidebar-width;
+//         }
+//     }
+// }
 
 
