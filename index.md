@@ -1,7 +1,7 @@
 ---
 layout: different
 title: Welcome to Cahaba Pressure
-permalink: /index2.html
+permalink: /
 ---
 
 Wood poles — what could be more common and ordinary?  Everywhere you look, they hold up our electric, telephone, and internet lines.   Millions upon millions are in use around the world.  Yet, there is a vitality and dynamic to their story that is worth learning about.
