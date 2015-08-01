@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Contact Us
+permalink: /contact/
+---
 
 (contact form including Name, Email, Phone and Comments)
 

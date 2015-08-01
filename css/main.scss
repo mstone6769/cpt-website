@@ -63,6 +63,18 @@ $shadow: rgba(black, 0.1);
   @include clearfix;
 }
 
+// hiding elements for screen reader usage only
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    border: 0;
+}
+
 body {
     background-color: $tertiary-color;
     @extend %base-font;
@@ -70,6 +82,14 @@ body {
     //line-height: $modular-scale-ratio;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
+}
+
+.container {
+    max-width: $wrapper-width;
+    margin: $spacing-unit auto;
+    box-shadow: 1px 1px 10px 0px rgba(black,0.33);
+    background-color: white;
+    padding: $spacing-unit;
 }
 
 %header-style {
@@ -100,15 +120,17 @@ body {
 .site-header {
     background-color: $primary-color;
     color: white;
+    text-align: center;
 }
 
 .site-title {
     display: inline-block;
     width: 200px;
-    height: 200px;
-    text-indent: -1000px;
-    background: url('../images/Cahaba-Pressure-Logo-2-Color-Large-with-Treated-Forest-Products.png') center center no-repeat;
+    height: 220px;
+    background: white url('../images/Cahaba-Pressure-Logo-2-Color-Large-with-Treated-Forest-Products.png') center center no-repeat;
     background-size: 100%;
+    @include border-bottom-radius(5px);
+    box-shadow: 1px 1px 10px 0px rgba(black,0.33);
 }
 
 a {

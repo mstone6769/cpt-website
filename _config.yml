@@ -3,9 +3,9 @@ title: Cahaba Pressure
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Cahaba Pressure Treated Forest Products
-baseurl: "cpt-website/" # the subpath of your site, e.g. /blog/
+baseurl: "/cpt-website" # the subpath of your site, e.g. /blog/
 url: "http://www.cahabahapressure.com" # the base hostname & protocol for your site
-
+homepageurl: "/index2.html"
 # Build settings
-gems: [bourbon,'modular-scale']
+gems: []
 markdown: kramdown
