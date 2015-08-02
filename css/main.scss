@@ -3,12 +3,13 @@
 ---
 @charset "utf-8";
 
+$em-base: 18px;
 @import '../bourbon/_bourbon';
 
 // Spacing
 $modular-scale-ratio: $major-third;
-$spacing-unit: 1rem;
-$wrapper-width: rem(1000);
+$spacing-unit: 1em;
+$wrapper-width: em(1000);
 
 
 
@@ -17,9 +18,6 @@ $base-font-family: "nimbus-sans",sans-serif;
 $base-font-style: normal;
 $base-font-weight: 400;
 
-$em-base: 18px;
-//$base-font-size:   $em-base;
-
 $header-font-family: "nimbus-sans-condensed", sans-serif;
 $header-font-style: normal;
 $header-font-weight: 700;
@@ -27,7 +25,7 @@ $header-font-weight: 700;
 @mixin font-and-line ($scale-number, $line-height: 1) {
     $modular-scale: modular-scale($scale-number);
     font-size: $modular-scale;
-    line-height: $modular-scale * $line-height;
+    line-height: 1;
 }
 
 
@@ -42,14 +40,23 @@ $primary-color: $red;
 $primary-color-darker: darken($red, 10%);
 $secondary-color: $gray;
 $tertiary-color: $silver;
-$shadow: rgba(black, 0.1);
+$shadow: rgba(black, 0.2);
 
 @import "reset";
 
 %base-font {
-    font-family: $base-font-family;
-    font-style: $base-font-style;
-    font-weight: $base-font-weight; 
+    // font-family: $base-font-family;
+    // font-style: $base-font-style;
+    // font-weight: $base-font-weight; 
+    font-family: $header-font-family;
+    font-style: $header-font-style;
+    font-weight: 400;
+}
+
+%pull-quote-font {
+    font-family: $header-font-family;
+    font-style: $header-font-style;
+    font-weight: 400;
 }
 
 %header-font {
@@ -63,6 +70,26 @@ $shadow: rgba(black, 0.1);
   @include clearfix;
 }
 
+body {
+    background-color: $tertiary-color;
+    @extend %base-font;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    font-size: $em-base;
+}
+
+a {
+    color: $primary-color;
+    text-decoration: none;
+    &:hover, &:focus {
+        color: $primary-color-darker;
+    }
+}
+
+strong, b {
+    font-weight: 700;
+}
+
 // hiding elements for screen reader usage only
 .sr-only {
     position: absolute;
@@ -74,22 +101,13 @@ $shadow: rgba(black, 0.1);
     clip: rect(0,0,0,0);
     border: 0;
 }
-
-body {
-    background-color: $tertiary-color;
-    @extend %base-font;
-    //font-size: $base-font-size;
-    //line-height: $modular-scale-ratio;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-}
-
 .container {
-    max-width: $wrapper-width;
-    margin: $spacing-unit auto;
-    box-shadow: 1px 1px 10px 0px rgba(black,0.33);
+    max-width: em(1400);
+    margin: 0 auto;
+    //border: 1px solid $shadow;
+    //border-width: 0 1px 1px 1px;
+    box-shadow: 0 0 1px 0px $shadow;
     background-color: white;
-    padding: $spacing-unit;
 }
 
 %header-style {
@@ -113,57 +131,55 @@ body {
     border-bottom: 1px dashed $secondary-color;
 }
 
-.site-nav-primary {
-    @extend %header-font;
+.site-header {
+    background-color: white;
+    box-shadow: 0 0 1px 0 $shadow;
+    //border-bottom: 1px solid $shadow;
+    > .wrapper {
+        position: relative;
+    }
 }
 
-.site-header {
-    background-color: $primary-color;
-    color: white;
-    text-align: center;
-}
+$site-logo-width: em(200px);
 
 .site-title {
     display: inline-block;
-    width: 200px;
-    height: 220px;
+    position: absolute;
+    left: $spacing-unit;
+    top: 0;
+    width: $site-logo-width;
+    height: em(220px);
     background: white url('../images/Cahaba-Pressure-Logo-2-Color-Large-with-Treated-Forest-Products.png') center center no-repeat;
     background-size: 100%;
     @include border-bottom-radius(5px);
     box-shadow: 1px 1px 10px 0px rgba(black,0.33);
 }
 
-a {
-    color: $primary-color;
-    text-decoration: none;
-    &:hover, &:focus {
-        color: $primary-color-darker;
-    }
-}
-
-strong, b {
-    font-weight: 700;
-}
-
-.site-nav-link {
-    display: inline-block;
-    padding: ($spacing-unit/2) $spacing-unit;
-    color: white;
-    text-decoration: none;
-    font-size: modular-scale(1);
-    text-transform: uppercase;
-    @include transition(background-color 200ms linear);
-    &:hover, &:focus {
-        color: white;
-        background-color: $shadow;
-    }
-}
-
 .site-nav-primary {
     @extend %clearfix;
+    margin-left: $spacing-unit+$site-logo-width;
+    //background-color: $primary-color;
+    //color: white;
     > li {
         float: left;
         display: inline-block;
+    }
+}
+
+
+
+.site-nav-link {
+    @extend %header-font;
+    display: inline-block;
+    padding: ($spacing-unit/2);
+    color: $secondary-color;
+    text-decoration: none;
+    font-size: modular-scale(2);
+    text-transform: uppercase;
+    @include transition(color 200ms linear);
+    &:hover, &:focus {
+        color: $primary-color;
+        //background-color: $shadow;
     }
 }
 
@@ -182,6 +198,7 @@ strong, b {
 }
 
 .page-content .page-header + p {
+    @extend %pull-quote-font;
     font-size: modular-scale(1);
     line-height: modular-scale(1)*1.2;
 }
@@ -199,6 +216,19 @@ strong, b {
             width: $sidebar-width;
         }
     }
+}
+
+.site-footer > .wrapper > p {
+    margin-top: $spacing-unit;
+    padding-top: $spacing-unit;
+    padding-bottom: $spacing-unit;
+    border-top: 1px dashed $secondary-color; 
+}
+
+.hero {
+    background: $secondary-color url('../images/slider01.jpg') center top no-repeat;
+    background-size: cover;
+    min-height: em(480);
 }
 
 

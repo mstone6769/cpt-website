@@ -7,7 +7,7 @@
 <aside class="sidebar">
 	{% if include.name %}
 	<h2 class="page-subheader">
-		{% if include.link %}<a href="{{include.link}}">{% endif %}
+		{% if include.link %}<a href="{{ include.link | prepend: site.baseurl }}">{% endif %}
 			{{include.name}}
 		{% if include.link %}</a>{% endif %}
 	</h2>

@@ -1,13 +1,4 @@
 ---
 layout: default
 ---
-<div class="page with-sidebar">
-  <article class="post-content">
-  	<h1 class="page-header">{{ page.title }}</h1>
-    {{ content }}
-  </article>
-</div>
-<aside class="sidebar">
-	<h2><a href="/about/">About Us</a></h2>
-	{% include about-list.html %}
-</aside>
+{% include page-with-sidebar.html list="about-list.html" name="About Us" link="/about/" %}

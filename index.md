@@ -1,5 +1,5 @@
 ---
-layout: different
+layout: home
 title: Welcome to Cahaba Pressure
 permalink: /
 ---
