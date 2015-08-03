@@ -2,6 +2,8 @@
 layout: about
 title: About Us
 permalink: /about/
+hero: /images/FPO.jpg
+heroalt: 
 ---
 
 Cahaba’s mission is to produce pressure treated wood products in very high volumes in a safe, efficient, and proper manner. The primary focus is on wood poles produced to quality standards and shipped on whatever schedule our customers request. The highest priority is to maintain our end user’s system reliability.

@@ -2,6 +2,8 @@
 layout: about
 title: Sustainability
 permalink: /about/sustainability/
+hero: /images/FPO.jpg
+heroalt: 
 ---
 
 Wood poles are produced only from highly renewable Southern Pine plantations. Far more trees are planted each year than are harvested.

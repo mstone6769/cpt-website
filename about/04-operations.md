@@ -2,6 +2,8 @@
 layout: about
 title: Operations
 permalink: /about/operations/
+hero: /images/FPO.jpg
+heroalt: 
 ---
 
 Located in the heart of the “Pine Belt”, our forests provide a perfect base from which our foresters can select trees meeting pole standards.

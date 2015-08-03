@@ -2,6 +2,8 @@
 layout: product
 title: Bio Mass
 permalink: /products/bio-mass/
+hero: /images/FPO.jpg
+heroalt: 
 ---
 We are part of this important emerging economic power source. Biomass is plant matter containing solar energy. The plants and trees have converted sunlight into mass which contains carbon for energy. The Southern Pine forest industry is capable of providing vast amounts of biomass as a major step towards renewable energy for our country. Cahaba is a vital part of this emerging supply base. Our forest maintainance programs result in healthy trees by thinning and select harvesting. This well managed process produces vast amounts of wood fiber from small trees and logging residue. We do not waste wood fiber—we convert it to biomass.
 

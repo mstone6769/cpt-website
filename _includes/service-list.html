@@ -1,5 +1,26 @@
 <ul class="menu">
-  <li><a href="{{'/services/logistics/' | prepend: site.baseurl }}">Logistics</a></li>
-  <li><a href="{{'/services/service-area/' | prepend: site.baseurl }}">Service Area</a></li>
-  <li><a href="{{'/services/build-a-truck/' | prepend: site.baseurl }}">Build-a-Truck</a></li>
+  <li>
+    <a href="{{'/services/logistics/' | prepend: site.baseurl }}">
+      {% if include.withpic %}
+      <img src="{{'/images/FPO.jpg' | prepend: site.baseurl }}" alt="">
+      {% endif %}
+      Logistics
+    </a>
+  </li>
+  <li>
+    <a href="{{'/services/service-area/' | prepend: site.baseurl }}">
+      {% if include.withpic %}
+      <img src="{{'/images/FPO.jpg' | prepend: site.baseurl }}" alt="">
+      {% endif %}
+      Service Area
+    </a>
+  </li>
+  <li>
+    <a href="{{'/services/build-a-truck/' | prepend: site.baseurl }}">
+      {% if include.withpic %}
+      <img src="{{'/images/FPO.jpg' | prepend: site.baseurl }}" alt="">
+      {% endif %}
+      Build-a-Truck
+    </a>
+  </li>
 </ul>

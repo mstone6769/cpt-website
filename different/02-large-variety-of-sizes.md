@@ -2,6 +2,8 @@
 layout: different
 title: Large Variety of Sizes
 permalink: /different/large-variety-of-sizes/
+hero: /images/FPO.jpg
+heroalt: 
 ---
 The fact that many customers use the most common sizes of poles can be a challenge for most pole plants. We have solved that problem.
 

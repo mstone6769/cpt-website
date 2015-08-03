@@ -2,6 +2,8 @@
 layout: about
 title: Commitment
 permalink: /about/commitment/
+hero: /images/FPO.jpg
+heroalt: 
 ---
 
 A family in several ways

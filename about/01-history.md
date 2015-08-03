@@ -2,6 +2,8 @@
 layout: about
 title: History
 permalink: /about/history/
+hero: /images/FPO.jpg
+heroalt: 
 ---
 
 As we enter our 51st year of continuous business and growth, we can offer thanks to our founders, our hard working staff, our loyal suppliers, and to our many customers.

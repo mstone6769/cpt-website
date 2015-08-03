@@ -2,6 +2,8 @@
 layout: different
 title: Long-Term Relationships
 permalink: /different/long-term-relationships/
+hero: /images/FPO.jpg
+heroalt: 
 ---
 New customers are appreciated and become part of our commitment.
 Long term customers know they will receive the attention they deserve.

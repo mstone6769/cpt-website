@@ -155,13 +155,19 @@ img {
         box-sizing: border-box;
     }
     &.two-columns > li {
-        width: 50%;
+        @media #{$medium-screen} {
+            width: 50%;
+        }
     }
     &.three-columns > li {
-        width: 33.3333333333%;
+        @media #{$medium-screen} {
+            width: 33.3333333333%;
+        }
     }
     &.four-columns > li {
-        width: 25%;
+        @media #{$large-screen} {
+            width: 25%;
+        }
     }
 }
 
@@ -198,6 +204,10 @@ img {
     > .wrapper {
         position: relative;
     }
+}
+
+.main {
+    min-height: em(662);
 }
 
 $site-logo-width: em(200px);
@@ -272,6 +282,23 @@ $site-logo-height: em(220px);
     }
 }
 
+%larger-font-size {
+    font-size: modular-scale(1);
+    line-height: modular-scale(0)*1.2;
+    @media #{$medium-screen} {
+        font-size: modular-scale(2);
+        line-height: modular-scale(1)*1.2;
+    }
+    @media #{$large-screen} {
+        font-size: modular-scale(1);
+        line-height: modular-scale(0)*1.2;
+    }
+    @media #{$xlarge-screen} {
+        font-size: modular-scale(2);
+        line-height: modular-scale(1)*1.2;
+    }
+}
+
 .page-content {
     p {
         @extend %standard-font-size;
@@ -279,20 +306,7 @@ $site-logo-height: em(220px);
     }
     .page-header + p {
         @extend %pull-quote-font;
-        font-size: modular-scale(1);
-        line-height: modular-scale(0)*1.2;
-        @media #{$medium-screen} {
-            font-size: modular-scale(2);
-            line-height: modular-scale(1)*1.2;
-        }
-        @media #{$large-screen} {
-            font-size: modular-scale(1);
-            line-height: modular-scale(0)*1.2;
-        }
-        @media #{$xlarge-screen} {
-            font-size: modular-scale(2);
-            line-height: modular-scale(1)*1.2;
-        }
+        @extend %larger-font-size;
     }
     h2 {
         @extend .page-subheader;
@@ -311,6 +325,36 @@ $site-logo-height: em(220px);
     .menu {
         @extend .columns;
         @extend .three-columns;
+        &:hover,&:focus {
+            > li > a:after {
+                opacity: 0.5;
+            }
+        }
+        > li {
+            margin-bottom: $spacing-unit*2;
+        }
+        > li > a {
+            @extend %larger-font-size;
+            position: relative;
+            display: block;
+            &:after {
+                content: '';
+                background-color: white;
+                width: 100%;
+                height: 0;
+                padding-bottom: 33.3333333333%;
+                position: absolute;
+                left: 0;
+                top: 0;
+                opacity: 0;
+                @include transition(opacity 200ms linear);
+            }
+            &:hover, &:focus {
+                &:after {
+                    opacity: 0;
+                }
+            }
+        }
     }
 }
 
@@ -359,8 +403,8 @@ $site-logo-height: em(220px);
 }
 
 .hero-wrapper {
-    background-color: $secondary-color;
-    @include linear-gradient(to bottom, lighten($secondary-color, 20%), $secondary-color, $fallback: $secondary-color);
+    background-color: $tertiary-color;
+    //@include linear-gradient(to bottom, lighten($secondary-color, 20%), $secondary-color, $fallback: $secondary-color);
     background-repeat: repeat-x;
     background-size: 100%;
     min-height: ($site-logo-height - $spacing-unit*4);

@@ -2,6 +2,8 @@
 layout: different
 title: Multiple Preservatives
 permalink: /different/multiple-preservatives/
+hero: /images/FPO.jpg
+heroalt: 
 ---
 * Pentachlorophenol
 * Creosote
