@@ -5,7 +5,7 @@ permalink: /different/multiple-preservatives/
 ---
 * Pentachlorophenol
 * Creosote
-* CCA
+* CCA (please visit [www.cahabatimber.com](http://www.cahabatimber.com "CCA Wood Pole Supplier"))
 * Copper Naphthenate
 
 Each one offers some advantages and each one may have some perceived disadvantages to certain end users. All four meet AWPA standards. All four offer years of service. It is not our position of insist that a customer only use a certain preservative. Choice is better.

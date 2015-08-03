@@ -7,7 +7,17 @@
     <div class="container">
       {% include header.html %}
 
-      <main role="main" class="page-content">
+      <main role="main">
+        <div class="hero-wrapper">
+          {% if page.hero %}
+            <figure class="hero">
+              <img src="{{page.hero | prepend: site.baseurl }}" alt="{{page.heroalt}}">
+              {% if page.herocaption %}
+              <figcaption>{{page.herocaption}}</figcaption>
+              {% endif %}
+            </figure>
+          {% endif %}
+        </div>
         <div class="wrapper">
           {{ content }}
         </div>

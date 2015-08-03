@@ -4,7 +4,7 @@ title: History
 permalink: /about/history/
 ---
 
-As we enter our 47th year of continuous business and growth, we can offer thanks to our founders, our hard working staff, our loyal suppliers, and to our many customers.
+As we enter our 51st year of continuous business and growth, we can offer thanks to our founders, our hard working staff, our loyal suppliers, and to our many customers.
 
 Cahaba began when two brothers—Kermit and Joseph Stephens decided to build and operate a hardwood sawmill near our present site. The year was 1964. Capital investment was limited, but hard work was not. Largely through their inspired work ethic, the company began to grow. Very early on, a guiding principle was “set in stone” for all company employees to follow. Mr. Kermit stated in direct terms—“if we say it will be done, we will do it”. The company has now established a long history of fulfilling orders on time and to specifications.
 
