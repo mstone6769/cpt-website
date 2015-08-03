@@ -1,0 +1,2833 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mo",
+				"modular-scale"
+			],
+			[
+				"med",
+				"medium-screen"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"page-",
+				"page-header"
+			],
+			[
+				"sideb",
+				"sidebar-container"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"fieldcol",
+				"fieldColumnLabelHide"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"out",
+				"outputModel"
+			],
+			[
+				"border-bo",
+				"border-bottom-left-radius"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"btn",
+				"btn-secondary"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"last",
+				"last-child"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"green",
+				"sg_gamma_green"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"home",
+				"home-text-wrapper"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"invalid",
+				"ng-invalid"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"border-rad",
+				"border-top-left-radius"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"qu",
+				"quickCounts"
+			],
+			[
+				"qui",
+				"quickCounts"
+			],
+			[
+				"tota",
+				"totalCount"
+			],
+			[
+				"tot",
+				"totalCount"
+			],
+			[
+				"Des",
+				"DesiredCount"
+			],
+			[
+				"Radius",
+				"RadiusInMiles"
+			],
+			[
+				"Radi",
+				"RadiusInMiles"
+			],
+			[
+				"loca",
+				"locations"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"dist",
+				"distribution"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"get",
+				"getDistribution"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"las",
+				"last-child"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"sec",
+				"secondary"
+			],
+			[
+				"sel",
+				"selectLocationId"
+			],
+			[
+				"Sel",
+				"SelectedLocationId"
+			],
+			[
+				"Loca",
+				"LocationAvailableZipCodes"
+			],
+			[
+				"Ava",
+				"AvailableZipCodeIds"
+			],
+			[
+				"Se",
+				"SelectedLocationId"
+			],
+			[
+				"numb",
+				"big-number"
+			],
+			[
+				"Selec",
+				"SelectedAvailableZipCodeIds"
+			],
+			[
+				"Avail",
+				"SelectedAvailableZipCodeIds"
+			],
+			[
+				"Rad",
+				"RadiusDescriptors"
+			],
+			[
+				"radiu",
+				"radius"
+			],
+			[
+				"Add",
+				"Address"
+			],
+			[
+				"Ra",
+				"RadiusAddress"
+			],
+			[
+				"ra",
+				"radii"
+			],
+			[
+				"Location",
+				"LocationId"
+			],
+			[
+				"radius",
+				"radiusDescriptors"
+			],
+			[
+				"Locat",
+				"LocationId"
+			],
+			[
+				"Another",
+				"AnotherLocation"
+			],
+			[
+				"Radiu",
+				"RadiusDescriptors"
+			],
+			[
+				"Curre",
+				"CurrentLocationIndex"
+			],
+			[
+				"L",
+				"LocationDescriptor"
+			],
+			[
+				"select",
+				"selectZipCodes"
+			],
+			[
+				"boom",
+				"boomFunction"
+			],
+			[
+				"has",
+				"hasVisited"
+			],
+			[
+				"quic",
+				"quickCounts"
+			],
+			[
+				"reset",
+				"resetDistributeCounts"
+			],
+			[
+				"person",
+				"personType"
+			],
+			[
+				"available",
+				"availableCount"
+			],
+			[
+				"avail",
+				"availableCount"
+			],
+			[
+				"prop",
+				"propensity"
+			],
+			[
+				"ava",
+				"availableCount"
+			],
+			[
+				"se",
+				"selectedProviders"
+			],
+			[
+				"getPro",
+				"getProvidersById"
+			],
+			[
+				"aler",
+				"alert-small"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"pro",
+				"providerResults"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"providerSpec",
+				"ProviderSpecialtyId"
+			],
+			[
+				"prov",
+				"providerSearch"
+			],
+			[
+				"I",
+				"IsMandatory"
+			],
+			[
+				"seed",
+				"seedlist"
+			],
+			[
+				"selected",
+				"selectedItems"
+			],
+			[
+				"Seed",
+				"SeedListIds"
+			],
+			[
+				"sele",
+				"selectedSeedLists"
+			],
+			[
+				"ch",
+				"checkBoxChangeEvent"
+			],
+			[
+				"drop",
+				"drop-down-container"
+			],
+			[
+				"date",
+				"datePicker"
+			],
+			[
+				"rad",
+				"radiiDos"
+			],
+			[
+				"manageSegmentsG",
+				"manageSegmentsGeographies"
+			],
+			[
+				"manage",
+				"manageSegmentsGeographies"
+			],
+			[
+				"manageSe",
+				"manageSegmentsFilters"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"man",
+				"manageSegments"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"manageS",
+				"manageSegments"
+			],
+			[
+				"cure",
+				"currentListState"
+			],
+			[
+				"tab",
+				"tabDefinitions"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 384,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/head.html",
+			"settings":
+			{
+				"buffer_size": 941,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/page-with-sidebar.html",
+			"settings":
+			{
+				"buffer_size": 514,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/header.html",
+			"settings":
+			{
+				"buffer_size": 1144,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/homewrap.html",
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 676,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/page.html",
+			"settings":
+			{
+				"buffer_size": 165,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/about.html",
+			"settings":
+			{
+				"buffer_size": 114,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/about-list.html",
+			"settings":
+			{
+				"buffer_size": 510,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.scss",
+			"settings":
+			{
+				"buffer_size": 10754,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "different/01-high-volume-fast-shipments.md",
+			"settings":
+			{
+				"buffer_size": 1068,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "different/02-large-variety-of-sizes.md",
+			"settings":
+			{
+				"buffer_size": 828,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about/02-commitment.md",
+			"settings":
+			{
+				"buffer_size": 1022,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about/03-sustainability.md",
+			"settings":
+			{
+				"buffer_size": 681,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "different/03-multiple-preservatives.md",
+			"settings":
+			{
+				"buffer_size": 811,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "different/04-long-term-relationships.md",
+			"settings":
+			{
+				"buffer_size": 801,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about/01-history.md",
+			"settings":
+			{
+				"buffer_size": 1721,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about/04-operations.md",
+			"settings":
+			{
+				"buffer_size": 1021,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/home.html",
+			"settings":
+			{
+				"buffer_size": 131,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/product-list.html",
+			"settings":
+			{
+				"buffer_size": 1366,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "products/00-index.html",
+			"settings":
+			{
+				"buffer_size": 105,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/service-list.html",
+			"settings":
+			{
+				"buffer_size": 721,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about/00-index.md",
+			"settings":
+			{
+				"buffer_size": 1014,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.md",
+			"settings":
+			{
+				"buffer_size": 1104,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "products/03-crossties.md",
+			"settings":
+			{
+				"buffer_size": 665,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "products/01-poles.md",
+			"settings":
+			{
+				"buffer_size": 568,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "products/02-piling.md",
+			"settings":
+			{
+				"buffer_size": 708,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "products/04-agriculture-products.md",
+			"settings":
+			{
+				"buffer_size": 623,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "products/05-bio-mass.md",
+			"settings":
+			{
+				"buffer_size": 1284,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "products/06-custom-treating-services.md",
+			"settings":
+			{
+				"buffer_size": 416,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "services/00-index.html",
+			"settings":
+			{
+				"buffer_size": 105,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "services/02-logistics.md",
+			"settings":
+			{
+				"buffer_size": 283,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "services/03-service-area.md",
+			"settings":
+			{
+				"buffer_size": 132,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "services/04-build-a-truck.md",
+			"settings":
+			{
+				"buffer_size": 128,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contact.md",
+			"settings":
+			{
+				"buffer_size": 216,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/different-list.html",
+			"settings":
+			{
+				"buffer_size": 539,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"SASS",
+				"Set Syntax: CSS"
+			],
+			[
+				"Sass",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 271.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Morgan.Stone/Documents/cpt-website",
+		"/Users/Morgan.Stone/Documents/cpt-website/_includes",
+		"/Users/Morgan.Stone/Documents/cpt-website/_layouts",
+		"/Users/Morgan.Stone/Documents/cpt-website/about",
+		"/Users/Morgan.Stone/Documents/cpt-website/css",
+		"/Users/Morgan.Stone/Documents/cpt-website/different",
+		"/Users/Morgan.Stone/Documents/cpt-website/images",
+		"/Users/Morgan.Stone/Documents/cpt-website/products",
+		"/Users/Morgan.Stone/Documents/cpt-website/services"
+	],
+	"file_history":
+	[
+		"/Users/Morgan.Stone/Documents/cpt-website/about/01-history.md",
+		"/Users/Morgan.Stone/Documents/cpt-website/index.md",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/50e65a08edf5a067e7bfd63eb8b9044d2c78f81c/_transform.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/hologram_config.yml",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/projectPartials/_wizard.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/karma/node_modules/http-proxy/test/core/simple/test-http-many-keep-alive-connections.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/karma-coverage/node_modules/istanbul/node_modules/js-yaml/test/unported/empty-tag-handle.emitter-error",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/karma-coverage/node_modules/istanbul/lib/util/yui-load-hook.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/directives/my-profile-popup.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/directives/myTasksFilters.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/ui-core/node_modules/gulp-util/node_modules/chalk/node_modules/.bin/supports-color",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/partials/_2_color.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/bower_components/dimple/src/objects/chart/methods/getColor.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/bower_components/jspdf/examples/js/text-colors.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/701c4af30857976c079f1d9dd41dcfbac4206519/_link-colors.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/d4c729f5b3ac9f2d43873cf48a506ff051bb541e/_2_color.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/48d09c4c2ce371a389941c4aa744354fe8674cef/_2_color.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/karma/lib/reporters/progress_color.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/karma/lib/reporters/dots_color.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/karma/lib/reporters/base_color.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/grunt-bower-concat/node_modules/bower/templates/helpers/colors.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/bower_components/ckeditor/plugins/colordialog/dialogs/colordialog.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/d5ba79e2e035232afc4d4269ca06703ab5cea71a/_color-schemer.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/5be8ab01d517b58ef9c52cbd41cba1c9bcb7310b/_color-schemer.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/5be8ab01d517b58ef9c52cbd41cba1c9bcb7310b/_color-adjustments.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/ui-core/node_modules/gulp-util/lib/colors.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/5be8ab01d517b58ef9c52cbd41cba1c9bcb7310b/_colorblind.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/karma/lib/init/color_schemes.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/fd33597aac12f2a86686b10b9cd91fac7e581655/_color.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/karma-spec-reporter/node_modules/colors/colors.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/karma/node_modules/colors/colors.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/grunt-html-angular-validate/node_modules/colors/colors.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/grunt/node_modules/colors/colors.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/style_guide/css/colorPalette.css",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/karma/node_modules/log4js/lib/connect-logger.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/grunt-express-server/test/custom_output_test.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/config.rb",
+		"/Users/Morgan.Stone/Documents/navigate-ui/doc_assets/_footer.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/doc_assets/_header.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/default/style_guide.css",
+		"/Users/Morgan.Stone/Documents/navigate-ui/doc_assets/scss/main.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/style_guide/forms.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/administrator/views/payForPerformance.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/projectPartials/_admin.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/templates/navExpandableMenuItem.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/directives/expandableMenuItem.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/templates/navExpandableMenu.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/directives/expandableMenu.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/manage-metrics/index.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/task-bundles/index.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/projectPartials/_0_navigateIcons.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/_navMenu.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/partials/_iconfont.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/administrator/controllers/payForPerformanceCtrl.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/d4c729f5b3ac9f2d43873cf48a506ff051bb541e/_iconfont.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/48d09c4c2ce371a389941c4aa744354fe8674cef/_iconfont.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/0ddfbebd5f4610f7a8b76e52eacb01e5a7944abe/_compass.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/projectPartials/_navPopulation.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/projectPartials/_navPagination.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/projectPartials/_userSearch.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/projectPartials/_longitudinal.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/projectPartials/_taskBundles.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/projectPartials/_auditUserActivityReport.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/grunt-bower-concat/node_modules/bower/lib/core/Project.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/config/prod.jshintrc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/grunt/node_modules/glob/test/pause-resume.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/package.json",
+		"/Users/Morgan.Stone/Documents/navigate-ui/Gemfile",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/_banner.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/main.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/templates/navExpandableFilterItem.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/templates/navMultiselect.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/templates/navigateAccordion.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/filters/nospace.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/14b4b3e388a0cb6f481614aebc910fd3cd0e6d3c/_brightness.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/e68d0ed3c149d20400ee832869c1074a3d7b0e61/_adminManagedPopulation.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/9bdb7eace5654962cc864f7f2fd76c4a8f2c9c89/_adminManagedPopulation.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/e68d0ed3c149d20400ee832869c1074a3d7b0e61/_adminAdvanced.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/9bdb7eace5654962cc864f7f2fd76c4a8f2c9c89/_adminAdvanced.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/e68d0ed3c149d20400ee832869c1074a3d7b0e61/_admin.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/9bdb7eace5654962cc864f7f2fd76c4a8f2c9c89/_admin.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/partials/_accordion.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/templates/modalAlpha.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/manage-metrics/views/metricsList.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/message-center/controllers/MessageCenterCtrl.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/templates/modalMessagePatientSearch.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/projectPartials/_educationalMaterialPopup.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/partials/_tables.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/partials/_modal.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/templates/education_material_document_popup.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/templates/education_material_popup.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/directives/education-material-document-Popup.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/patient/views/patient_documents.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/partials/_4_buttons.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/patient/views/education_material.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/patient/controllers/EducationCtrl.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/patient/controllers/ClinicalresultsCtrl.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/patient/views/clinical_results.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/patient/controllers/PatientDocumentsCtrl.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/task-bundles/views/taskBundles.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/grunt-contrib-compass/node_modules/tmp/test-all.sh",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/filters/telephone.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/e68d0ed3c149d20400ee832869c1074a3d7b0e61/_educationalMaterialPopup.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/test/modules/patient/controllers/EducationCtrlSpec.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/task-bundles/views/educationMaterials.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/directives/education-material-popup.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/bower_components/angular-grid/ng-grid.css",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/bower_components/ng-grid/plugins/ng-grid-csv-export.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/grunt-bower-concat/node_modules/detective/node_modules/esprima-fb/ChangeLog",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/bower_components/ng-ckeditor/libs/ckeditor/plugins/tabletools/dialogs/tableCell.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/administrator/views/edit_user.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/administrator/views/editUserDetails.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/grunt/express.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/9bdb7eace5654962cc864f7f2fd76c4a8f2c9c89/_eduMat.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/59d28a6a23084fd539590d254de2bb1bdf790082/_end.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/.sass-cache/9bdb7eace5654962cc864f7f2fd76c4a8f2c9c89/_addTasks.scssc",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/bower_components/dimple/src/methods/_addGradient.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/lib/help/added_formatters.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/projectPartials/_adminManagedPopulation.scss",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/bower_components/angularjs-nvd3-directives/src/directives/nvD3LegendConfiguration.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/task-bundles/controllers/TaskBundlesCtrl.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/reports/views/cmreport.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/config/app.config.local.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/patient/views/Patientassessments.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/reports/controllers/careManagerReportCtrl.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/patient/controllers/GoalsCtrl.js",
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/patient/views/Goal.html",
+		"/Users/Morgan.Stone/Documents/navigate-ui/node_modules/load-grunt-config/node_modules/lodash-node/modern/internals/maxPoolSize.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 213.0,
+		"where_history":
+		[
+			"/Users/Morgan.Stone/Documents/cpt-website",
+			"/Users/Morgan.Stone/Documents/navigate-ui/",
+			"/Users/Morgan.Stone/Documents/navigate-ui/app/",
+			"/Users/Morgan.Stone/Documents/navigate-ui/app/themes",
+			"/Users/Morgan.Stone/Documents/navigate-ui/app/",
+			"/Users/Morgan.Stone/Documents/navigate-ui/app/themes",
+			"/Users/Morgan.Stone/Documents/navigate-ui/app/",
+			"/Users/Morgan.Stone/Documents/navigate-ui/app/themes",
+			"/Users/Morgan.Stone/Documents/navigate-ui/app/",
+			"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default",
+			"",
+			"<open folders>",
+			"",
+			"/Users/Morgan.Stone/Documents/navigate-ui/app/modules",
+			"/Users/Morgan.Stone/Documents/navigate-ui/app/templates",
+			"",
+			"<open files>",
+			"",
+			"<open folders>",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\">",
+			"</a>",
+			"\">",
+			"</a></li>",
+			"<li><a",
+			"slider01",
+			"content",
+			"linear",
+			"{% endif %}",
+			"\">",
+			"</a></li>",
+			"\">",
+			"<li>",
+			"</li>",
+			"</a></li>",
+			"\">",
+			"<li>",
+			"</a>",
+			"\">",
+			"</li>",
+			"<li>",
+			"/\"",
+			"\"{{\"",
+			"\" |",
+			"{{ \"",
+			"Here is why major utilities have Cahaba in their supply chain:",
+			".page-hea",
+			"$xl",
+			"header-font",
+			"\">",
+			"href=\"",
+			"/\"",
+			"\"{{\"",
+			".wrapp",
+			".site-footer",
+			"border",
+			"em",
+			"\" |",
+			"\"{{ \"",
+			" | prepend: site.baseurl",
+			"/\">",
+			"href=\"",
+			"\">",
+			"href=\"",
+			"\" |",
+			"\"/",
+			"\"",
+			"prepend.",
+			"'",
+			"\">",
+			"href=\"",
+			"/products/poles/",
+			"href=\"",
+			"med-table-pager",
+			"med-table-pager-beta",
+			"pagination",
+			"class^=",
+			"icon",
+			".nav-primary",
+			"class=\"required-field\"",
+			"action",
+			"files",
+			".accordion-toggle",
+			"$background-gray",
+			"<<<<<<< HEAD",
+			"page-sidebar-menu",
+			".page-sidebar-menu",
+			"hr {\n    margin: 0 !important;\n}",
+			"_alerts.scss",
+			"bootstrap",
+			"category:",
+			"category: Basics",
+			"title :",
+			".button-bar",
+			"top_aligned_fields",
+			"category: Forms",
+			"parent: a_general_form_rules",
+			"category: Forms",
+			"parent: Forms",
+			"1D",
+			"<select",
+			"<label",
+			"</select></div>",
+			"100ms",
+			"background-color 100ms, ",
+			"200",
+			"sg-nav",
+			".sg-nav-primary .nav",
+			"width",
+			"134px",
+			"115px",
+			"2em",
+			"111px",
+			"1em",
+			"id=\"inlineRadio",
+			"inlineRadio",
+			"required-field",
+			"form",
+			"-8",
+			"-1",
+			"1C",
+			"1D",
+			"placeholder=\"Placeholder Text disappears when typing starts\"",
+			"1C",
+			"1B",
+			"type=\"text\"",
+			"<label",
+			"></div>",
+			"</label><input",
+			"<div>",
+			"CHANGE-ME-1",
+			"style_guidedemo",
+			" type=\"text\"",
+			"<label",
+			"</div>",
+			"</label>",
+			"<div class=\"form-group\">",
+			"<div>",
+			"Form inputs and labels",
+			"console.log",
+			"scope.user.role",
+			"bindFilters",
+			"scope.clinics",
+			"console",
+			"bindPayF",
+			"scope.filterTrendGraph",
+			".clinicId",
+			"scope.filter.ClinicId"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<span class=\"icon-label\">Export to Excel</span>",
+			"<label class=\"control-label col-sm-4\" for=\"Source\">Source</label>\n							<div class=\"col-sm-6\">                    \n								<select class=\"form-control input-sm\"",
+			"<label class=\"control-label col-sm-4\" for=\"Source\">Source</label>\n   32  							<div class=\"col-sm-6\">                    \n   33  								<select class=\"form-control input-sm\"",
+			"href=\"\"",
+			"<button type=\"button\" class=\"btn no-btn close-popup\" data-ng-click=\"modalOptions.close()\">\n  <span class=\"General-icon_close_999999_30x30\"></span>\n  <span class=\"visually-hidden\">close dialog</span>\n<button type=\"button\" class=\"btn no-btn close-popup\" data-ng-click=\"modalOptions.close()\"><span class=\"General-icon_close_999999_30x30\"></span><span class=\"visually-hidden\">close dialog</span></button>",
+			"<button type=\"button\" class=\"btn no-btn close-popup\" data-ng-click=\"modalOptions.close()\">\n  <span class=\"General-icon_close_999999_30x30\"></span>\n  <span class=\"visually-hidden\">close dialog</span>\n<button type=\"button\" class=\"btn no-btn close-popup\" data-ng-click=\"remove('cancel')\"><span class=\"General-icon_close_999999_30x30\"></span><span class=\"visually-hidden\">close dialog</span></button>",
+			"<button type=\"button\" class=\"btn no-btn close-popup\" data-ng-click=\"modalOptions.close()\">\n  <span class=\"General-icon_close_999999_30x30\"></span>\n  <span class=\"visually-hidden\">close dialog</span>\n</button>",
+			"class=\"wizard-title\"",
+			"<h2 class=\"wizard-title\">",
+			"<h2 class=\"wizard-title\">Summary</h2>",
+			"listState",
+			"<tr><td data-title=\"Name\">",
+			"<td class=\"icon-only text-center\"><img",
+			"<td class=\"empty-cell\"></td>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								23
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_includes/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								252,
+								252
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_includes/page-with-sidebar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_includes/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								462,
+								462
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_layouts/homewrap.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_layouts/page.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_layouts/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_includes/about-list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								310,
+								310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "css/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4184,
+								4184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9238.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "different/01-high-volume-fast-shipments.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1068,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "different/02-large-variety-of-sizes.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "about/02-commitment.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1022,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								97
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "about/03-sustainability.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "different/03-multiple-preservatives.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "different/04-long-term-relationships.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "about/01-history.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "about/04-operations.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								97
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "_layouts/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "_includes/product-list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								857,
+								749
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 208.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "products/00-index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "_includes/service-list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								678,
+								678
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "about/00-index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "products/03-crossties.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 665,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "products/01-poles.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								61
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "products/02-piling.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "products/04-agriculture-products.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "products/05-bio-mass.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "products/06-custom-treating-services.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								130,
+								99
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "services/00-index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "services/02-logistics.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "services/03-service-area.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "services/04-build-a-truck.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "contact.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "_includes/different-list.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 201.0
+	},
+	"output.find_results":
+	{
+		"height": 742.0
+	},
+	"pinned_build_system": "",
+	"project": "cpt-website.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"css/main.scss"
+			],
+			[
+				"main.",
+				"css/main.scss"
+			],
+			[
+				"tablepager",
+				"app/directives/tablePager.js"
+			],
+			[
+				"/templates/tablepaging.html",
+				"app/templates/tablePaging.html"
+			],
+			[
+				"_table",
+				"app/themes/sass_default/partials/_tables.scss"
+			],
+			[
+				"_acco",
+				"app/themes/sass_default/partials/_accordion.scss"
+			],
+			[
+				"_wiz",
+				"app/themes/sass_default/projectPartials/_wizard.scss"
+			],
+			[
+				"_wiza",
+				"app/themes/sass_default/projectPartials/_wizard.scss"
+			],
+			[
+				"color",
+				"app/themes/sass_default/partials/_2_color.scss"
+			],
+			[
+				"_iconfon",
+				"app/themes/sass_default/partials/_iconfont.scss"
+			],
+			[
+				"_nav",
+				"app/themes/sass_default/_navMenu.scss"
+			],
+			[
+				"projectpartials/na",
+				"app/themes/sass_default/projectPartials/_0_navigateIcons.scss"
+			],
+			[
+				"navexp",
+				"app/templates/navExpandableMenuItem.html"
+			],
+			[
+				"_navmen",
+				"app/themes/sass_default/_navMenu.scss"
+			],
+			[
+				"_banner",
+				"app/themes/sass_default/_banner.scss"
+			],
+			[
+				"_admin",
+				"app/themes/sass_default/projectPartials/_admin.scss"
+			],
+			[
+				"main.scs",
+				"app/themes/sass_default/main.scss"
+			],
+			[
+				"tabl",
+				"app/themes/sass_default/partials/_tables.scss"
+			],
+			[
+				"education.scss",
+				"app/themes/sass_default/projectPartials/_educationalMaterialPopup.scss"
+			],
+			[
+				"education",
+				"app/templates/education_material_document_popup.html"
+			],
+			[
+				"education_",
+				"app/templates/education_material_popup.html"
+			],
+			[
+				"_modal",
+				"app/themes/sass_default/partials/_modal.scss"
+			],
+			[
+				"_educational",
+				"app/themes/sass_default/projectPartials/_educationalMaterialPopup.scss"
+			],
+			[
+				"table",
+				"app/themes/sass_default/partials/_tables.scss"
+			],
+			[
+				"button",
+				"app/themes/sass_default/partials/_4_buttons.scss"
+			],
+			[
+				"buttons",
+				"app/bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap/_buttons.scss"
+			],
+			[
+				"_long",
+				"app/themes/sass_default/projectPartials/_longitudinal.scss"
+			],
+			[
+				"_button",
+				"app/themes/sass_default/partials/_4_buttons.scss"
+			],
+			[
+				"_navm",
+				"app/themes/sass_default/_navMenu.scss"
+			],
+			[
+				"_cm",
+				"app/themes/sass_default/projectPartials/_cm_myTasks.scss"
+			],
+			[
+				"_message",
+				"app/themes/sass_default/projectPartials/_messageCenter.scss"
+			],
+			[
+				"_navmenu",
+				"app/themes/sass_default/_navMenu.scss"
+			],
+			[
+				"typ",
+				"app/themes/sass_default/partials/_2_typography.scss"
+			],
+			[
+				"butto",
+				"app/themes/sass_default/partials/_4_buttons.scss"
+			],
+			[
+				"config.lo",
+				"config/app.config.local.js"
+			],
+			[
+				"main.sc",
+				"app/themes/sass_default/main.scss"
+			],
+			[
+				"mapmetrics",
+				"app/modules/manage-metrics/controllers/MapMetricsCtrl.js"
+			],
+			[
+				"frequ",
+				"app/templates/frequency-operator.html"
+			],
+			[
+				"freque",
+				"app/directives/frequency-operator.js"
+			],
+			[
+				"_tab",
+				"app/themes/sass_default/partials/_tables.scss"
+			],
+			[
+				"comor",
+				"app/modules/administrator/views/comorbidityReport.html"
+			],
+			[
+				"templates/multise",
+				"app/templates/multiSelectList.html"
+			],
+			[
+				"_form",
+				"app/themes/sass_default/partials/_4_forms.scss"
+			],
+			[
+				"_login",
+				"app/themes/sass_default/projectPartials/_loginPanel.scss"
+			],
+			[
+				"tables",
+				"app/themes/sass_default/partials/_tables.scss"
+			],
+			[
+				"reminder",
+				"app/modules/administrator/controllers/ReminderScheduleCtrl.js"
+			],
+			[
+				"_buttons",
+				"app/themes/sass_default/partials/_4_buttons.scss"
+			],
+			[
+				"reports.",
+				"app/themes/sass_default/projectPartials/_reports.scss"
+			],
+			[
+				"_tables",
+				"app/themes/sass_default/partials/_tables.scss"
+			],
+			[
+				"_forms",
+				"app/themes/sass_default/partials/_4_forms.scss"
+			],
+			[
+				"app",
+				"config/app.config.local.js"
+			],
+			[
+				"main.scss",
+				"app/themes/sass_default/main.scss"
+			],
+			[
+				"mytasks",
+				"app/directives/myTasksFilters.js"
+			],
+			[
+				"_user",
+				"app/themes/sass_default/projectPartials/_userSearch.scss"
+			],
+			[
+				"modal.sc",
+				"app/themes/sass_default/partials/_modal.scss"
+			],
+			[
+				"_mixins",
+				"app/themes/sass_default/_mixins.scss"
+			],
+			[
+				"forms",
+				"app/bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap/_forms.scss"
+			],
+			[
+				"reports",
+				"app/themes/sass_default/projectPartials/_reports.scss"
+			],
+			[
+				"layout",
+				"app/themes/sass_default/partials/_0.layout.scss"
+			],
+			[
+				"main.s",
+				"app/themes/sass_default/main.scss"
+			],
+			[
+				"segment",
+				"app/modules/manage-metrics/controllers/SegmentationMetricsCtrl.js"
+			],
+			[
+				"addmetr",
+				"app/modules/manage-metrics/views/addMetrics.html"
+			],
+			[
+				"order",
+				"app/filters/orderobjectsby.js"
+			],
+			[
+				"nospace",
+				"app/filters/nospace.js"
+			],
+			[
+				"typog",
+				"app/themes/sass_default/partials/_2_typography.scss"
+			],
+			[
+				"_layout",
+				"app/themes/sass_default/partials/_0.layout.scss"
+			],
+			[
+				"populatiion",
+				"app/modules/administrator/views/populationdefintion.html"
+			],
+			[
+				"_multi",
+				"app/themes/sass_default/projectPartials/_multiSelect.scss"
+			],
+			[
+				"config.loca",
+				"config/app.config.local.js"
+			],
+			[
+				"_banner.",
+				"app/themes/sass_default/_banner.scss"
+			],
+			[
+				"modalcriteriand",
+				"app/modules/administrator/controllers/modalCriteriaDiagnosisCtrl.js"
+			],
+			[
+				"modalcriteriaut",
+				"app/modules/administrator/controllers/modalCriteriaUtilizationCtrl.js"
+			],
+			[
+				"app/modules/home/controll",
+				"app/modules/home/controllers/UserCtrl.js"
+			],
+			[
+				"app/modules/user/contr",
+				"app/modules/user/controllers/AuthenicatedUserCtrl.js"
+			],
+			[
+				"_patient",
+				"app/themes/sass_default/projectPartials/_patientnotes.scss"
+			],
+			[
+				"_repor",
+				"app/themes/sass_default/projectPartials/_reports.scss"
+			],
+			[
+				"times",
+				"app/templates/times-in-last-days.html"
+			],
+			[
+				"config.l",
+				"config/app.config.local.js"
+			],
+			[
+				"_mod",
+				"app/themes/sass_default/partials/_modal.scss"
+			],
+			[
+				"multiselect",
+				"app/templates/multiSelectList.html"
+			],
+			[
+				"times-in",
+				"app/templates/times-in-last-days.html"
+			],
+			[
+				"_navpop",
+				"app/themes/sass_default/projectPartials/_navPopulation.scss"
+			],
+			[
+				"_node",
+				"app/themes/sass_default/projectPartials/_node-trees.scss"
+			],
+			[
+				"_modals",
+				"app/themes/sass_default/partials/_modal.scss"
+			],
+			[
+				"_typog",
+				"app/themes/sass_default/partials/_2_typography.scss"
+			],
+			[
+				"selectcriter",
+				"app/modules/administrator/controllers/selectCriteriaCtrl.js"
+			],
+			[
+				"_wizard",
+				"app/themes/sass_default/projectPartials/_wizard.scss"
+			],
+			[
+				"wizardsummar",
+				"app/directives/wizard-summary.js"
+			],
+			[
+				"tables.scss",
+				"app/themes/sass_default/partials/_tables.scss"
+			],
+			[
+				"_panels.scss",
+				"app/bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap/_panels.scss"
+			],
+			[
+				"panels",
+				"app/themes/sass_default/partials/_panels.scss"
+			],
+			[
+				"managed",
+				"app/modules/patient/views/managed_pop_home.html"
+			],
+			[
+				"patientsearch",
+				"app/templates/patientSearch.html"
+			],
+			[
+				"app/modules/patient/views/",
+				"app/modules/patient/views/LongitudinalView.html"
+			],
+			[
+				"_cor",
+				"app/themes/sass_default/projectPartials/_comorbidityReport.scss"
+			],
+			[
+				"_accordion",
+				"app/themes/sass_default/partials/_accordion.scss"
+			],
+			[
+				"_reports",
+				"app/themes/sass_default/projectPartials/_reports.scss"
+			],
+			[
+				"congif.loca",
+				"config/app.config.local.js"
+			],
+			[
+				"views/tasks",
+				"app/modules/caremanagerTasks/views/tasks.html"
+			],
+			[
+				"caremanagercontroller",
+				"app/modules/caremanager/controllers/CareManagerController.js"
+			],
+			[
+				"_cm_mytasks.scss",
+				"app/themes/sass_default/projectPartials/_cm_myTasks.scss"
+			],
+			[
+				"_patientlistgrid.scss",
+				"app/themes/sass_default/projectPartials/_patientListGrid.scss"
+			],
+			[
+				"_adminadvanced.scss",
+				"app/themes/sass_default/projectPartials/_adminAdvanced.scss"
+			],
+			[
+				"addpatie",
+				"app/modules/patient/controllers/AddPatientTaskCtrl.js"
+			],
+			[
+				"app.conf",
+				"config/app.config.local.js"
+			],
+			[
+				"app/themes/sass_default/partials/",
+				"app/themes/sass_default/partials/_2_color.scss"
+			],
+			[
+				"_wizar",
+				"app/themes/sass_default/projectPartials/_wizard.scss"
+			],
+			[
+				"app/themes/sass_default/",
+				"app/themes/sass_default/partials/_panels.scss"
+			],
+			[
+				"app/modules/adminstrator/views/audit_err",
+				"app/modules/administrator/views/audit_errorReport.html"
+			],
+			[
+				"editusersumm",
+				"app/modules/administrator/views/editUserSummary.html"
+			],
+			[
+				"",
+				"config/app.config.local.js"
+			],
+			[
+				"wizard",
+				"app/themes/sass_default/projectPartials/_wizard.scss"
+			],
+			[
+				"secur",
+				"app/modules/administrator/views/securityRoles.html"
+			],
+			[
+				"createuser",
+				"app/modules/administrator/controllers/CreateUserCtrl.js"
+			],
+			[
+				"securit",
+				"app/modules/administrator/views/securityRoles.html"
+			],
+			[
+				"_typo",
+				"app/themes/sass_default/partials/_2_typography.scss"
+			],
+			[
+				"editse",
+				"app/modules/administrator/views/editSecurityRoles.html"
+			],
+			[
+				"_tables.scss",
+				"app/themes/sass_default/partials/_tables.scss"
+			],
+			[
+				"edituserdetail",
+				"app/modules/administrator/views/editUserDetails.html"
+			],
+			[
+				"createuser.scss",
+				"app/themes/sass_default/projectPartials/_createUser.scss"
+			],
+			[
+				"edituser",
+				"app/modules/administrator/views/editUserCredentials.html"
+			],
+			[
+				"userscss",
+				"app/themes/sass_default/projectPartials/_createUser.scss"
+			],
+			[
+				"typo",
+				"app/themes/sass_default/partials/_2_typography.scss"
+			],
+			[
+				"02_ty",
+				".sass-cache/48d09c4c2ce371a389941c4aa744354fe8674cef/_2_typography.scssc"
+			],
+			[
+				"main.css",
+				"app/themes/default/main.css"
+			],
+			[
+				"tele",
+				"app/filters/telephone.js"
+			],
+			[
+				"wizard-summ",
+				"app/directives/wizard-summary.js"
+			],
+			[
+				"_create",
+				"app/themes/sass_default/projectPartials/_createUser.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 368.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
