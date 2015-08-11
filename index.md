@@ -3,6 +3,7 @@ layout: home
 permalink: /
 hero: /images/slider01.jpg
 heroalt: Railroad ties in German Style Stacking
+homepagerotator: true
 herocaption: Pressure Treated to Perfection
 ---
 <h1 class="page-header">Welcome to Cahaba Pressure</h1>

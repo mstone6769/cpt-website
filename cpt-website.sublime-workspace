@@ -869,15 +869,7 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/Morgan.Stone/Documents/cpt-website",
-		"/Users/Morgan.Stone/Documents/cpt-website/_includes",
-		"/Users/Morgan.Stone/Documents/cpt-website/_layouts",
-		"/Users/Morgan.Stone/Documents/cpt-website/about",
-		"/Users/Morgan.Stone/Documents/cpt-website/css",
-		"/Users/Morgan.Stone/Documents/cpt-website/different",
-		"/Users/Morgan.Stone/Documents/cpt-website/images",
-		"/Users/Morgan.Stone/Documents/cpt-website/products",
-		"/Users/Morgan.Stone/Documents/cpt-website/services"
+		"/Users/Morgan.Stone/Documents/cpt-website"
 	],
 	"file_history":
 	[
@@ -1460,7 +1452,8 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1482,8 +1475,8 @@
 						"selection":
 						[
 							[
-								4184,
-								4184
+								1602,
+								1602
 							]
 						],
 						"settings":
@@ -1493,7 +1486,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 9238.0,
+						"translation.y": 1209.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1714,7 +1707,8 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1770,7 +1764,9 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 208.0,
@@ -2220,7 +2216,8 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

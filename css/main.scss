@@ -216,7 +216,7 @@ $site-logo-height: em(220px);
 .site-title {
     display: inline-block;
     position: absolute;
-    z-index: 1;
+    z-index: 3;
     left: $spacing-unit;
     top: 0;
     width: $site-logo-width;
@@ -417,6 +417,7 @@ $site-logo-height: em(220px);
             right: 0;
             bottom: 0;
             height: 50px;
+            z-index: 3;
             background: url("../images/curve.svg") center bottom no-repeat;
             background-size: fit;
         }
@@ -454,15 +455,16 @@ $site-logo-height: em(220px);
         color: white;
         @media #{$medium-screen} {
             position: absolute;
+            z-index: 3;
             font-size: modular-scale(1);
-            background-color: transparent;
+            background-color: rgba(white, .75);
             letter-spacing: 0.1em;
             color: $primary-color;
-            padding: 0;
+            padding: 1rem;
             opacity: 0;
             @include animation-fadedown(0);
             top: $spacing-unit*2;
-            right: $spacing-unit;
+            right: 0;
         }
         @media #{$large-screen} {
             font-size: modular-scale(2);
@@ -471,5 +473,38 @@ $site-logo-height: em(220px);
             font-size: modular-scale(3);
         }
     }
+}
+
+.slideshow {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 100%;
+  padding-bottom: 33.333333%;
+  background-color: $gray;
+  > li {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0;
+    img {
+      width: 100%;
+      height: auto;
+    }
+    &:not(.slide-next) {
+      @include transition(opacity 200ms linear);
+    }
+    &.slide-current {
+      z-index: 1;
+      opacity: 1;
+    }
+    &.slide-next {
+      z-index: 2;
+      opacity: 0;
+    }
+  }
 }
 
