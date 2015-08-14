@@ -114,6 +114,15 @@ img {
   }
 }
 
+label.form-block {
+    display: block;
+    margin-bottom: $spacing-unit;
+    > input, > select {
+        display: block;
+        width: 100%;
+    }
+}
+
 // hiding elements for screen reader usage only
 .sr-only {
     position: absolute;

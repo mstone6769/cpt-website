@@ -4,4 +4,4 @@ title: Plant
 permalink: /about/plant/
 ---
 
-(pics of plant site)
+<img src="{{'/images/plant-site.jpg' | prepend: site.baseurl }}" alt="Cahaba Pressure Plant Site">

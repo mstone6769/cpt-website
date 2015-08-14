@@ -2,7 +2,7 @@
 layout: about
 title: Operations
 permalink: /about/operations/
-hero: /images/FPO.jpg
+hero: /images/kiln.jpg
 heroalt: 
 ---
 

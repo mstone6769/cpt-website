@@ -2,7 +2,7 @@
 layout: about
 title: Commitment
 permalink: /about/commitment/
-hero: /images/FPO.jpg
+hero: /images/commitment.jpg
 heroalt: 
 ---
 

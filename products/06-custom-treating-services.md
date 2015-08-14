@@ -13,6 +13,6 @@ Both round products and sawn products receive AWPA approved preservative penetra
 
 * Penta
 * Creosote
-* CCA
-* CCA-ET
+* CCA (please visit [www.cahabatimber.com](http://www.cahabatimber.com "CCA Wood Pole Supplier"))
+* CCA-ET (please visit [www.cahabatimber.com](http://www.cahabatimber.com "CCA-ET Wood Pole Supplier"))
 * CuNap

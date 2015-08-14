@@ -2,7 +2,7 @@
 layout: product
 title: Crossties
 permalink: /products/crossties/
-hero: /images/slider01.jpg
+hero: /images/crossties.jpg
 heroalt: Railroad ties in German Style Stacking
 ---
 We are committed to annually produce over 1 million crossties. Our machines and processing lines are new, but our expertise is not. Cahaba has a long history in hardwood production. Our return to high quality and high volume production will provide railroads with an assured supply base. Customers can choose from a variety of species, sizes, and treatments.
