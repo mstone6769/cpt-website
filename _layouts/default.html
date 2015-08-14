@@ -7,12 +7,12 @@
     <div class="container">
       {% include header.html %}
 
-      <main class="main" role="main">
+      <main class="main">
         <div class="hero-wrapper">
           {% if page.hero %}
             <figure class="hero">
               {% if page.homepagerotator %}
-              <ul class="slideshow" data-slideshow-interval="3500">
+              <ol class="slideshow" data-slideshow-interval="3500">
                 <li>
                   <img src="{{'/images/slider01.jpg' | prepend: site.baseurl }}" alt="Railroad ties in German Style Stacking">
                 </li>
@@ -25,7 +25,20 @@
                 <li>
                   <img src="{{'/images/slider04.jpg' | prepend: site.baseurl }}" alt="Cahaba is the Largest Treating Plant in the world">
                 </li>
-              </ul>
+                <li>
+                  <img src="{{'/images/slider01.jpg' | prepend: site.baseurl }}" alt="Railroad ties in German Style Stacking">
+                </li>
+                <li>
+                  <img src="{{'/images/slider02.jpg' | prepend: site.baseurl }}" alt="Pressure Treated Wood Poles">
+                </li>
+                <li>
+                  <img src="{{'/images/slider03.jpg' | prepend: site.baseurl }}" alt="Pressure Treated Wood Posts">
+                </li>
+                <li>
+                  <img src="{{'/images/slider04.jpg' | prepend: site.baseurl }}" alt="Cahaba is the Largest Treating Plant in the world">
+                </li>
+
+              </ol>
               {% else %}
               <img src="{{page.hero | prepend: site.baseurl }}" alt="{{page.heroalt}}">
               {% endif %}

@@ -481,7 +481,7 @@ $site-logo-height: em(220px);
   padding: 0;
   position: relative;
   width: 100%;
-  padding-bottom: 33.333333%;
+  padding-bottom: calc(100%/3);
   background-color: $gray;
   > li {
     position: absolute;
@@ -497,13 +497,19 @@ $site-logo-height: em(220px);
     &:not(.slide-next) {
       @include transition(opacity 200ms linear);
     }
+    &.slide-previous.slide-toggle {
+        opacity: 1;
+    }
     &.slide-current {
       z-index: 1;
       opacity: 1;
     }
-    &.slide-next {
+    &.slide-next, .slide-toggle {
       z-index: 2;
       opacity: 0;
+    }
+    &.slide-toggle-on {
+        opacity: 1;
     }
   }
 }
