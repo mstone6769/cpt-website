@@ -2,7 +2,7 @@
 layout: about
 title: History
 permalink: /about/history/
-hero: /images/FPO.jpg
+hero: /images/cahaba-history.jpg
 heroalt: 
 ---
 

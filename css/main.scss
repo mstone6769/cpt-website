@@ -43,6 +43,7 @@ $header-font-weight: 700;
 $red: #c52033;
 $gray: #666;
 $silver: #e5e5e5;
+$charcoal: #333;
 
 $primary-color: $red;
 $primary-color-darker: darken($red, 10%);
@@ -88,6 +89,7 @@ body {
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     font-size: $em-base;
+    color: $charcoal;
 }
 
 a {

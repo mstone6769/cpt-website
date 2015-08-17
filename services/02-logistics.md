@@ -2,7 +2,7 @@
 layout: service
 title: Logistics
 permalink: /services/logistics/
-hero: /images/FPO.jpg
+hero: /images/logistics.jpg
 heroalt: 
 ---
 We own a fleet of modern trucks all equipped with self unloaders

@@ -2,7 +2,7 @@
 layout: about
 title: About Us
 permalink: /about/
-hero: /images/FPO.jpg
+hero: /images/about.jpg
 heroalt: 
 ---
 

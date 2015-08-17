@@ -2,7 +2,7 @@
 layout: service
 title: Build-a-Truck
 permalink: /services/build-a-truck/
-hero: /images/FPO.jpg
+hero: /images/build-a-truck.jpg
 heroalt: 
 ---
 <form name="frm" onsubmit="return false;"> 

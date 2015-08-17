@@ -2,7 +2,7 @@
 layout: product
 title: Custom Treating Services
 permalink: /products/custom-treating-services/
-hero: /images/FPO.jpg
+hero: /images/custom-treating-services.jpg
 heroalt: 
 ---
 Contact us for Treating Service Only (TSO)

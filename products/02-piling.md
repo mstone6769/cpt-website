@@ -2,7 +2,7 @@
 layout: product
 title: Piling
 permalink: /products/piling/
-hero: /images/FPO.jpg
+hero: /images/piling.jpg
 heroalt: 
 ---
 Timber piling is an excellent choice for foundation, land, fresh water, or marine applications. Our treatment options match the expected end usage exposure to decay. The specification can be ASTM or your own custom standards. Just let us know the butt, tip, and type of treatment, when you want them—we will do the rest.

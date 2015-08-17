@@ -2,7 +2,7 @@
 layout: different
 title: Multiple Preservatives
 permalink: /different/multiple-preservatives/
-hero: /images/FPO.jpg
+hero: /images/multiple-preservatives.jpg
 heroalt: 
 ---
 * Pentachlorophenol

@@ -2,7 +2,7 @@
 layout: about
 title: Sustainability
 permalink: /about/sustainability/
-hero: /images/FPO.jpg
+hero: /images/sustainability.jpg
 heroalt: 
 ---
 

@@ -2,7 +2,7 @@
 layout: different
 title: Long-Term Relationships
 permalink: /different/long-term-relationships/
-hero: /images/FPO.jpg
+hero: /images/long-term-relationships.jpg
 heroalt: 
 ---
 New customers are appreciated and become part of our commitment.

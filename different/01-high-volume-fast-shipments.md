@@ -2,7 +2,7 @@
 layout: different
 title: High Volume Means Fast Shipments
 permalink: /different/high-volume-fast-shipments/
-hero: /images/FPO.jpg
+hero: /images/high-volume.jpg
 heroalt: 
 ---
 Overhead lines are subject to severe weather, which can result in power outages. Our focus then becomes single-minded—do whatever it takes to supply wood poles to our customers so their customers have power back as soon as possible.
