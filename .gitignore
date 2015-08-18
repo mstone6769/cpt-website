@@ -3,3 +3,5 @@ _site
 files
 
 files/slider.psd
+
+*.sublime-workspace
