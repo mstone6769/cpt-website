@@ -2,6 +2,8 @@
 layout: page
 title: Contact Us
 permalink: /contact/
+bodyclass: contact-page
+layout: contact
 ---
 
 <div id="wufoo-q1xoayf21upl2b2">
@@ -24,17 +26,6 @@ var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') retu
 try { q1xoayf21upl2b2 = new WufooForm();q1xoayf21upl2b2.initialize(options);q1xoayf21upl2b2.display(); } catch (e) {}};
 var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
 })(document, 'script');</script>
-
-
-##Mailing Address
-P.O. Box 160
-Brierfield, AL 35035
-
-##Phone
-205-926-6866
-
-##Fax
-205-926-6836
 
 
 

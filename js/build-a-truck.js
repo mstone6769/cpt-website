@@ -10,6 +10,8 @@ function round_decimals(original_number, decimals) {
     return pad_with_zeros(result3, decimals)
 }
 
+var cubic;
+
 function pad_with_zeros(rounded_value, decimal_places) {
 
     // Convert the number to a string
@@ -138,12 +140,9 @@ function calc()
     }
     cubic.value =  round_decimals(qty * pole_array[classIndex][1], 1);
 
-    CCA.value =   Math.round(qty * pole_array[classIndex][4]);
     Penta.value = Math.round(qty * pole_array[classIndex][5]);
-    CCATruck.value =   Math.ceil(cubic.value/830);
     PentaTruck.value = Math.ceil(cubic.value/880);
 
-    doProgress('cca', cubic.value, 830);
     doProgress('penta', cubic.value, 880);
     return false;
   }
@@ -153,15 +152,4 @@ function calc()
 function doProgress(poleType, currentWeight, totalWeight)
 {
   document.getElementById(poleType + "_caption").innerHTML = Math.ceil(currentWeight % totalWeight) + ' of '+totalWeight+' CFT';
-  var percentFill = Math.round((currentWeight % totalWeight)/totalWeight * 10);
-  for(i =1; i<=percentFill; i++)
-  {
-    var element = document.getElementById(poleType+"_cell" + i);
-    element.className = 'full';
-  }
-  for(; i<=10; i++)
-  {
-    var element = document.getElementById(poleType+"_cell" + i);
-    element.className = 'empty';
-  }
 }

@@ -87,49 +87,18 @@ heroalt:
 		<input type="number" name="quantity" step="1">
 	</label>
 	<button class="button" type="button" onclick="calc()">Calculate</button>
-	<ul class="columns two-columns">
-		<li>
-			<h2>CCA</h2>
-			<label class="form-block">
-				Total Cubic Weight:
-				<input type="text" readonly="1" name="cubic">
-			</label>
-			<label class="form-block">
-				Total CCA Weight:
-				<input type="text" readonly="1" name="CCA">
-			</label>
-			<label class="form-block">
-				CCA Truck Loads:
-				<input type="text" readonly="1" name="CCATruck">
-			</label>
-			Available on next truck <span id="cca_caption"></span>
-		</li>
-		<li>
-			<h2>Penta/Creosote/CuNap</h2>
-			<label class="form-block">
-				Total Penta Weight:
-				<input type="text" readonly="1" name="Penta">
-			</label>
-			<label class="form-block">
-				Penta Truck Loads:
-				<input type="text" readonly="1" name="PentaTruck">
-			</label>
-			Available on next truck <span id="penta_caption"></span>
-		</li>
-	</ul>
+	<h2>Penta/Creosote/CuNap</h2>
+	<label class="form-block">
+		Total Cubic Weight:
+		<input type="text" readonly="1" name="cubic">
+	</label>
+	<label class="form-block">
+		Total Penta Weight:
+		<input type="text" readonly="1" name="Penta">
+	</label>
+	<label class="form-block">
+		Penta Truck Loads:
+		<input type="text" readonly="1" name="PentaTruck">
+	</label>
+	Available on next truck: <span id="penta_caption"></span>
 </form>
-<!-- 
-  <script> 
-    var list_box = document.frm.classLength;
-
-    newOption = new Option("--select one--");
-    newIndex = list_box.length;
-    list_box.options[newIndex] = newOption;
-
-    for(i=1; i<pole_array.length; i++)
-    {
-       newOption = new Option(pole_array[i][0]);
-       newIndex = list_box.length;
-       list_box.options[newIndex] = newOption;
-    }
-  </script> -->
