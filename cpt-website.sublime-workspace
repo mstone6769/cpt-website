@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"padding",
+				"padding-bottom"
+			],
+			[
 				"current",
 				"currentValue"
 			],
@@ -510,10 +514,6 @@
 			[
 				"man",
 				"manageSegments"
-			],
-			[
-				"fun",
-				"function"
 			]
 		]
 	},
@@ -524,46 +524,6 @@
 			"settings":
 			{
 				"buffer_size": 1095,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_layouts/default.html",
-			"settings":
-			{
-				"buffer_size": 2280,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_layouts/different.html",
-			"settings":
-			{
-				"buffer_size": 131,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/header.html",
-			"settings":
-			{
-				"buffer_size": 1112,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/footer.html",
-			"settings":
-			{
-				"buffer_size": 169,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.md",
-			"settings":
-			{
-				"buffer_size": 1126,
 				"line_ending": "Unix"
 			}
 		},
@@ -579,7 +539,7 @@
 			"file": "css/main.scss",
 			"settings":
 			{
-				"buffer_size": 12443,
+				"buffer_size": 12532,
 				"line_ending": "Unix"
 			}
 		},
@@ -651,7 +611,7 @@
 			"file": ".gitignore",
 			"settings":
 			{
-				"buffer_size": 42,
+				"buffer_size": 63,
 				"line_ending": "Unix"
 			}
 		},
@@ -841,16 +801,18 @@
 	"expanded_folders":
 	[
 		"/Users/Morgan.Stone/Documents/cpt-website",
-		"/Users/Morgan.Stone/Documents/cpt-website/js",
-		"/Users/Morgan.Stone/Documents/cpt-website/services"
+		"/Users/Morgan.Stone/Documents/cpt-website/about",
+		"/Users/Morgan.Stone/Documents/cpt-website/css"
 	],
 	"file_history":
 	[
-		"/Users/Morgan.Stone/Documents/cpt-website/_includes/cahaba-pressure-united-states-service-area.svg",
-		"/Users/Morgan.Stone/Documents/cpt-website/about/05-plant.md",
-		"/Users/Morgan.Stone/Documents/cpt-website/_includes/header.html",
-		"/Users/Morgan.Stone/Documents/cpt-website/about/00-index.md",
 		"/Users/Morgan.Stone/Documents/cpt-website/index.md",
+		"/Users/Morgan.Stone/Documents/cpt-website/_includes/footer.html",
+		"/Users/Morgan.Stone/Documents/cpt-website/_includes/header.html",
+		"/Users/Morgan.Stone/Documents/cpt-website/_layouts/default.html",
+		"/Users/Morgan.Stone/Documents/cpt-website/about/05-plant.md",
+		"/Users/Morgan.Stone/Documents/cpt-website/_includes/cahaba-pressure-united-states-service-area.svg",
+		"/Users/Morgan.Stone/Documents/cpt-website/about/00-index.md",
 		"/Users/Morgan.Stone/Documents/cpt-website/products/03-crossties.md",
 		"/Users/Morgan.Stone/Documents/cpt-website/products/01-poles.md",
 		"/Users/Morgan.Stone/Documents/cpt-website/products/02-piling.md",
@@ -877,7 +839,6 @@
 		"/Users/Morgan.Stone/Documents/cpt-website/_includes/about-list.html",
 		"/Users/Morgan.Stone/Documents/cpt-website/_layouts/about.html",
 		"/Users/Morgan.Stone/Documents/cpt-website/_layouts/page.html",
-		"/Users/Morgan.Stone/Documents/cpt-website/_layouts/default.html",
 		"/Users/Morgan.Stone/Documents/cpt-website/_layouts/homewrap.html",
 		"/Users/Morgan.Stone/Documents/cpt-website/_includes/page-with-sidebar.html",
 		"/Users/Morgan.Stone/Documents/cpt-website/_includes/head.html",
@@ -972,8 +933,7 @@
 		"/Users/Morgan.Stone/Documents/navigate-ui/app/themes/sass_default/partials/_modal.scss",
 		"/Users/Morgan.Stone/Documents/navigate-ui/app/templates/education_material_document_popup.html",
 		"/Users/Morgan.Stone/Documents/navigate-ui/app/templates/education_material_popup.html",
-		"/Users/Morgan.Stone/Documents/navigate-ui/app/directives/education-material-document-Popup.js",
-		"/Users/Morgan.Stone/Documents/navigate-ui/app/modules/patient/views/patient_documents.html"
+		"/Users/Morgan.Stone/Documents/navigate-ui/app/directives/education-material-document-Popup.js"
 	],
 	"find":
 	{
@@ -1012,6 +972,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\" alt",
+			"src=\"",
+			":not(.columns)",
+			"<li >",
+			"class=\"\"",
 			"CCA",
 			"cubic",
 			"penta_caption",
@@ -1134,12 +1099,7 @@
 			"-1",
 			"1C",
 			"1D",
-			"placeholder=\"Placeholder Text disappears when typing starts\"",
-			"1C",
-			"1B",
-			"type=\"text\"",
-			"<label",
-			"></div>"
+			"placeholder=\"Placeholder Text disappears when typing starts\""
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1171,7 +1131,7 @@
 	"groups":
 	[
 		{
-			"selected": 22,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -1201,155 +1161,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 23,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "_layouts/default.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2280,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								104,
-								104
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_layouts/different.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 131,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_includes/header.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1112,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7,
-								7
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 24,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_includes/footer.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 169,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								169,
-								169
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 31,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "index.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1126,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								66,
-								104
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
 					"file": "_layouts/contact.html",
 					"semi_transient": false,
 					"settings":
@@ -1373,24 +1189,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 2,
 					"file": "css/main.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12443,
+						"buffer_size": 12532,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								466,
-								468
+								7428,
+								7428
 							]
 						],
 						"settings":
@@ -1400,14 +1216,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 151.0,
+						"translation.y": 6938.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 3,
 					"file": "services/03-service-area.md",
 					"semi_transient": false,
 					"settings":
@@ -1431,11 +1247,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 21,
+					"stack_index": 19,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 4,
 					"file": "about/01-history.md",
 					"semi_transient": false,
 					"settings":
@@ -1459,11 +1275,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 5,
 					"file": "services/02-logistics.md",
 					"semi_transient": false,
 					"settings":
@@ -1487,11 +1303,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
-					"buffer": 11,
+					"buffer": 6,
 					"file": "products/01-poles.md",
 					"semi_transient": false,
 					"settings":
@@ -1515,11 +1331,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 29,
+					"stack_index": 25,
 					"type": "text"
 				},
 				{
-					"buffer": 12,
+					"buffer": 7,
 					"file": "_includes/product-list.html",
 					"semi_transient": false,
 					"settings":
@@ -1545,11 +1361,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
-					"buffer": 13,
+					"buffer": 8,
 					"file": "_includes/service-list.html",
 					"semi_transient": false,
 					"settings":
@@ -1575,11 +1391,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
-					"buffer": 14,
+					"buffer": 9,
 					"file": "different/03-multiple-preservatives.md",
 					"semi_transient": false,
 					"settings":
@@ -1603,11 +1419,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 15,
+					"buffer": 10,
 					"file": "contact.md",
 					"semi_transient": false,
 					"settings":
@@ -1631,24 +1447,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 16,
+					"buffer": 11,
 					"file": ".gitignore",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 42,
+						"buffer_size": 63,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								23,
-								23
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1659,11 +1475,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 17,
+					"buffer": 12,
 					"file": "different/02-large-variety-of-sizes.md",
 					"semi_transient": false,
 					"settings":
@@ -1687,11 +1503,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
-					"buffer": 18,
+					"buffer": 13,
 					"file": "different/01-high-volume-fast-shipments.md",
 					"semi_transient": false,
 					"settings":
@@ -1715,11 +1531,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 19,
+					"buffer": 14,
 					"file": "about/02-commitment.md",
 					"semi_transient": false,
 					"settings":
@@ -1743,11 +1559,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 25,
+					"stack_index": 21,
 					"type": "text"
 				},
 				{
-					"buffer": 20,
+					"buffer": 15,
 					"file": "about/04-operations.md",
 					"semi_transient": false,
 					"settings":
@@ -1772,11 +1588,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 22,
+					"stack_index": 20,
 					"type": "text"
 				},
 				{
-					"buffer": 21,
+					"buffer": 16,
 					"file": "js/build-a-truck.js",
 					"semi_transient": false,
 					"settings":
@@ -1802,11 +1618,11 @@
 						"translation.y": 2118.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 22,
+					"buffer": 17,
 					"file": "services/04-build-a-truck.md",
 					"semi_transient": false,
 					"settings":
@@ -1831,11 +1647,11 @@
 						"translation.y": 176.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 23,
+					"buffer": 18,
 					"file": "different/04-long-term-relationships.md",
 					"semi_transient": false,
 					"settings":
@@ -1859,11 +1675,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
-					"buffer": 24,
+					"buffer": 19,
 					"file": "products/06-custom-treating-services.md",
 					"semi_transient": false,
 					"settings":
@@ -1887,11 +1703,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
-					"buffer": 25,
+					"buffer": 20,
 					"file": "about/03-sustainability.md",
 					"semi_transient": false,
 					"settings":
@@ -1915,11 +1731,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
-					"buffer": 26,
+					"buffer": 21,
 					"file": "about/00-index.md",
 					"semi_transient": false,
 					"settings":
@@ -1943,11 +1759,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
-					"buffer": 27,
+					"buffer": 22,
 					"file": "products/02-piling.md",
 					"semi_transient": false,
 					"settings":
@@ -1971,11 +1787,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
-					"buffer": 28,
+					"buffer": 23,
 					"file": "products/05-bio-mass.md",
 					"semi_transient": false,
 					"settings":
@@ -1999,11 +1815,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 26,
+					"stack_index": 22,
 					"type": "text"
 				},
 				{
-					"buffer": 29,
+					"buffer": 24,
 					"file": "products/04-agriculture-products.md",
 					"semi_transient": false,
 					"settings":
@@ -2027,11 +1843,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 28,
+					"stack_index": 24,
 					"type": "text"
 				},
 				{
-					"buffer": 30,
+					"buffer": 25,
 					"file": "products/03-crossties.md",
 					"semi_transient": false,
 					"settings":
@@ -2055,11 +1871,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 27,
+					"stack_index": 23,
 					"type": "text"
 				},
 				{
-					"buffer": 31,
+					"buffer": 26,
 					"file": "js/slideshow.js",
 					"semi_transient": false,
 					"settings":
@@ -2085,7 +1901,7 @@
 						"translation.y": 887.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 30,
+					"stack_index": 26,
 					"type": "text"
 				}
 			]
