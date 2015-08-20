@@ -339,6 +339,10 @@ $site-logo-height: em(220px);
     }
 }
 
+.plant-slideshow.slideshow {
+    padding-bottom: 67%;
+}
+
 .page-content {
     p {
         @extend %standard-font-size;
@@ -351,11 +355,11 @@ $site-logo-height: em(220px);
     h2 {
         @extend .page-subheader;
     }
-    ul:not(.menu):not(.columns) {
+    ul:not(.menu):not(.columns):not(.slideshow) {
         @extend %list-style;
         list-style-type: circle;
     }
-    ol:not(.menu):not(.columns) {
+    ol:not(.menu):not(.columns):not(.slideshow) {
         @extend %list-style;
         list-style-type: decimal;
     }
