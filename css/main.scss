@@ -436,6 +436,9 @@ $site-logo-height: em(220px);
             padding-bottom: $spacing-unit*0.25;
         }
     }
+    p {
+        margin-bottom: $spacing-unit;
+    }
 }
 
 .site-footer {
