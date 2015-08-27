@@ -531,7 +531,7 @@
 			"file": "_layouts/contact.html",
 			"settings":
 			{
-				"buffer_size": 500,
+				"buffer_size": 665,
 				"line_ending": "Unix"
 			}
 		},
@@ -547,7 +547,7 @@
 			"file": "css/main.scss",
 			"settings":
 			{
-				"buffer_size": 12561,
+				"buffer_size": 12613,
 				"line_ending": "Unix"
 			}
 		},
@@ -1180,15 +1180,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 500,
+						"buffer_size": 665,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								479,
-								467
+								624,
+								624
 							]
 						],
 						"settings":
@@ -1199,7 +1199,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -1227,7 +1227,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -1236,15 +1236,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12561,
+						"buffer_size": 12613,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								12421,
-								12421
+								9650,
+								9650
 							]
 						],
 						"settings":
@@ -1254,7 +1254,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 10831.0,
+						"translation.y": 8273.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
